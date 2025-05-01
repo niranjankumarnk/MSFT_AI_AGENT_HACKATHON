@@ -24,3 +24,12 @@ boto3
 streamlit
 pdf2image
 sentence-transformers
+azure-storage-blob
+IPython
+faker
+azure-identity
+pyodbc
+fastapi
+uvicorn[standard]
+pydantic
+plotly

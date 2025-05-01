@@ -12,21 +12,21 @@ load_dotenv()
 #     return np.array(embeddings), texts
 
 
-def embed_chunks(chunks, model_name="text-embedding-3-small"):
-    openai.api_key = os.getenv("OPENAI_API_KEY")
+# def embed_chunks(chunks, model_name="text-embedding-3-small"):
+#     openai.api_key = os.getenv("OPENAI_API_KEY")
 
-    filtered_chunks = [chunk for chunk in chunks if chunk.get("text")]
-    texts = [chunk["text"] for chunk in filtered_chunks]
+#     filtered_chunks = [chunk for chunk in chunks if chunk.get("text")]
+#     texts = [chunk["text"] for chunk in filtered_chunks]
 
-    if not texts:
-        return np.array([]), []
+#     if not texts:
+#         return np.array([]), []
 
-    response = openai.embeddings.create(
-        model=model_name,
-        input=texts
-    )
-    embeddings = [r.embedding for r in response.data]
-    return np.array(embeddings), filtered_chunks
+#     response = openai.embeddings.create(
+#         model=model_name,
+#         input=texts
+#     )
+#     embeddings = [r.embedding for r in response.data]
+#     return np.array(embeddings), filtered_chunks
 
 # import numpy as np
 # import openai
@@ -48,3 +48,28 @@ def embed_chunks(chunks, model_name="text-embedding-3-small"):
 #         all_embeddings.extend(batch_embeddings)
 
 #     return np.array(all_embeddings), texts
+
+
+def embed_chunks(chunks, model_name="text-embedding-3-small"):
+    openai.api_key = os.getenv("OPENAI_API_KEY")
+
+    filtered_chunks = []
+    texts = []
+
+    for chunk in chunks:
+        if chunk.get("text"):
+            texts.append(chunk["text"])
+            filtered_chunks.append({
+                "text": chunk["text"],
+                "metadata": chunk.get("metadata", {})  # 👈 ensure image_urls survive
+            })
+
+    if not texts:
+        return np.array([]), []
+
+    response = openai.embeddings.create(
+        model=model_name,
+        input=texts
+    )
+    embeddings = [r.embedding for r in response.data]
+    return np.array(embeddings), filtered_chunks

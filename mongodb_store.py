@@ -7,10 +7,10 @@ from gridfs import GridFS
 from bson import ObjectId
 
 load_dotenv()
-MONGODB_URI = os.environ['MONGODB_URI']
+MONGODB_URI = os.environ['MONGODB_URI2']
 
 # Create a new client and connect to the server
-client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
+client = MongoClient(MONGODB_URI)
 
 
 
@@ -31,6 +31,7 @@ def store_manual_data(manual_name, chunks, embeddings, timestamp):
         }
         collection.insert_one(doc)
 
+
 def retrieve_manual_chunks(manual_name):
     collection = db[manual_name]
     return list(collection.find({}))
@@ -38,11 +39,19 @@ def retrieve_manual_chunks(manual_name):
 def list_manual_collections():
     return [name for name in db.list_collection_names() if not name.startswith("fs.")]
 
+
 def delete_manual_data(manual_name):
-    client = MongoClient(os.getenv("MONGODB_URI"))
-    db = client["manuals_db"]
-    collection = db["manual_chunks"]
-    result = collection.delete_many({"manual": manual_name})
+    """
+    Delete manual documents from MongoDB collection.
+    """
+    if manual_name in db.list_collection_names():
+        db.drop_collection(manual_name)
+        print(f"✅ Deleted manual collection: {manual_name}")
+    else:
+        print(f"⚠️ Manual {manual_name} not found in database.")
+
+    
+    
 # from pymongo import MongoClient
 # import os, pprint
 
