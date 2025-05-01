@@ -27,7 +27,12 @@ Here’s an example where the assistant responds with both text and visuals from
   <img src="rag_response3.png" alt="RAG Output 2" width="45%" />
 </p>
 
-Visuals plays a major role in this Industrial maintenance of the equipment 
+Visuals plays a major role in this Industrial maintenance of the equipment by simplifying complex procedures, improving accuracy, and reducing downtime. Annotated diagrams, step-by-step visuals, and layout schematics help technicians:
+    - Quickly identify components and understand their configuration.
+    - Follow procedures with precision, reducing the risk of human error.
+    - Troubleshoot effectively using side-by-side visual and textual cues.
+
+These visual aids not only improve operational efficiency but also support regulatory compliance and preventive maintenance strategies, especially in high-stakes domains like healthcare, aerospace, or oil & gas.
 
 ### 2. 🛠️ Asset Manager (Azure SQL)
 - Add, view, modify, and delete assets
@@ -35,6 +40,12 @@ Visuals plays a major role in this Industrial maintenance of the equipment
   - Equipment Status Distribution
   - Compliance Summary
   - Spare Part Availability
+
+With seamless integration into the AI agent workflow, it empowers predictive insights and proactive maintenance planning based on real-time asset data.
+
+![](asset1.png)
+![](asset2.png)
+![](asset3.png)
 
 ### 3. 📊 Dashboard Summary & Report Generator
 - **LLM routing** decides:
