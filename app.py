@@ -1,6 +1,9 @@
 
 import streamlit as st
-from app_sections import assets, upload, manuals
+
+from . import manuals
+from . import csv_upload
+from . import assets
 
 st.set_page_config(page_title="AI Maintenance System", layout="wide")
 st.markdown("<h1 style='text-align:center;'>AI-powered Maintenance Platform</h1>", unsafe_allow_html=True)
@@ -15,7 +18,7 @@ menu = st.sidebar.radio("Navigation", ["Home", "Asset Manager", "Upload CSV", "M
 if menu == "Asset Manager":
     assets.display_asset_manager()
 elif menu == "Upload CSV":
-    upload.display_csv_upload()
+    csv_upload.display_csv_upload()
 elif menu == "Manual Assistant":
     manuals.display_manual_assistant()
 else:
