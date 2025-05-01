@@ -22,8 +22,10 @@ This project provides an intelligent, agent-powered platform to manage, monitor,
 Here’s an example where the assistant responds with both text and visuals from the manual:
 
 ![RAG Response](rag_response1.png)
-![Step-by-step instructions](rag_response2.png)
-![Visuals](rag_response3.png)
+<p align="center">
+  <img src="rag_response1.png" alt="RAG Output 1" width="45%" />
+  <img src="rag_response2.png" alt="RAG Output 2" width="45%" />
+</p>
 
 Visuals plays a major role in this Industrial maintenance of the equipment 
 
