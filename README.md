@@ -41,11 +41,11 @@ These visual aids not only improve operational efficiency but also support regul
   - Compliance Summary
   - Spare Part Availability
 
-With seamless integration into the AI agent workflow, it empowers predictive insights and proactive maintenance planning based on real-time asset data.
-
 ![](asset1.png)
 ![](asset2.png)
 ![](asset3.png)
+
+With seamless integration into the AI agent workflow, it empowers predictive insights and proactive maintenance planning based on real-time asset data.
 
 ### 3. 📊 Dashboard Summary & Report Generator
 - **LLM routing** decides:
@@ -54,9 +54,21 @@ With seamless integration into the AI agent workflow, it empowers predictive ins
   - Report generation for individual equipment
 
 ### 4. ✍️ Blog Creator Agent
-- Powered by GPT-4o via LangGraph
-- Generate blog titles & full-length content
-- Simple UI for marketing/technical content generation
+Leverage the power of **LangGraph + GPT-4o** to generate high-quality blog content with minimal input. Ideal for marketing, documentation, or technical storytelling, this tool allows you to:
+
+- 🧠 Generate catchy titles from a simple user prompt
+
+- 📝 Write full-length blog posts based on AI-curated titles
+
+- 🖥️ Streamlit-powered UI for easy topic entry and content review
+
+- ⚙️ Seamlessly plug into your internal CMS or documentation pipelines
+
+![](blog1.png)
+![](blog2.png)
+
+This feature turns your AI assistant into a creative content generator — automating writing for product updates, equipment overviews, or technical guides.
+
 
 ---
 
