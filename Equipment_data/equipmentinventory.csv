@@ -1,0 +1,501 @@
+NameType,Manufacturer,ModelNumber,SerialNumber,Location,PurchaseDate,WarrantyExpiryDate,Status
+Haemothermy,Canon Medical,Model-154ka,SN-319626,PET,2021-08-24,2026-12-22,Retired
+Crash Cart,Stryker,Model-316Cu,SN-042828,ECG Room,2018-10-02,2029-06-01,Active
+Ultrasound Machine,Philips,Model-234pY,SN-839707,Doctors Cabin,2017-09-11,2028-09-12,Active
+ECMO Machine,Siemens Healthineers,Model-894Qu,SN-856058,OT,2022-02-06,2025-11-18,Retired
+ECG Monitor,Hitachi Medical,Model-777rk,SN-745162,ECG Room,2024-04-11,2026-03-02,Retired
+OT Table,GE Healthcare,Model-024Fo,SN-460991,OT,2021-06-06,2029-12-21,Retired
+ECG Monitor,Olympus,Model-388xU,SN-823495,Doctors Cabin,2021-02-25,2025-01-21,Retired
+Crash Cart,GE Healthcare,Model-658Kx,SN-634504,GENERAL WARD,2016-10-23,2025-11-03,In Repair
+Incubator,Fresenius,Model-544Ym,SN-063991,CT,2018-12-25,2027-04-03,In Repair
+Anesthesia Machine,Dräger,Model-397bJ,SN-406309,ECG Room,2021-04-28,2026-02-28,Retired
+PET Scanner,GE Healthcare,Model-480LA,SN-676849,MRI,2024-01-24,2027-08-23,In Repair
+PET Scanner,Philips,Model-986YM,SN-452350,CATH LAB,2022-05-29,2024-11-09,Retired
+Incubator,Hitachi Medical,Model-306aI,SN-590937,Doctors Cabin,2023-01-27,2029-08-10,In Repair
+Sterilizer,Stryker,Model-630BH,SN-186936,Physiotherapy Room,2016-06-23,2029-04-27,In Repair
+Patient Monitor,Stryker,Model-882WW,SN-873808,Physiotherapy Room,2017-06-19,2029-07-29,In Repair
+Ventilator,Hitachi Medical,Model-853RV,SN-354278,GENERAL WARD,2016-11-23,2028-12-13,Active
+Ultrasound Machine,Baxter,Model-617sn,SN-619467,ECG Room,2022-11-01,2024-08-06,In Repair
+Surgical Light,Mindray,Model-998VR,SN-257888,ECG Room,2020-11-06,2025-11-17,Retired
+X-Ray Machine,Medtronic,Model-987nJ,SN-572687,ICU,2018-09-24,2029-01-06,Retired
+Endoscope,Canon Medical,Model-844tk,SN-616795,CT-ICU,2023-04-20,2025-09-09,Retired
+Patient Monitor,Olympus,Model-865Pg,SN-296931,Doctors Cabin,2016-08-23,2026-03-21,In Repair
+Ultrasound Machine,Hitachi Medical,Model-004fB,SN-428287,CATH LAB,2017-09-11,2028-07-11,Retired
+Infusion Pump,Olympus,Model-141qi,SN-022999,ICU,2018-11-03,2024-04-29,Active
+OT Table,Philips,Model-357DF,SN-598019,Doctors Cabin,2024-04-25,2026-04-11,Retired
+Ventilator,Hitachi Medical,Model-801VD,SN-556462,CATH LAB,2021-09-28,2027-03-04,Active
+Defibrillator,Hitachi Medical,Model-846Cm,SN-722116,CT-ICU,2018-01-08,2025-09-10,Retired
+PET Scanner,Medtronic,Model-242Fo,SN-417467,OT,2017-09-08,2025-12-03,Active
+Suction Pump,Siemens Healthineers,Model-216NL,SN-863366,PET,2018-03-28,2028-05-25,Retired
+Defibrillator,Medtronic,Model-202dh,SN-268625,OT,2021-09-30,2027-04-15,In Repair
+Infusion Pump,Fresenius,Model-657Rz,SN-049078,MRI,2019-02-17,2028-08-17,In Repair
+Surgical Light,GE Healthcare,Model-466nj,SN-183021,CT,2020-03-04,2026-02-05,Retired
+Ultrasound Machine,Olympus,Model-129od,SN-098732,OT,2021-03-22,2028-03-30,Retired
+Incubator,Philips,Model-155Gr,SN-241626,ICU,2018-07-31,2026-12-06,Active
+Heart Lung Machine,Siemens Healthineers,Model-323ah,SN-586791,CT,2015-11-19,2028-04-02,In Repair
+OT Table,Medtronic,Model-575TV,SN-413644,ICU,2021-08-20,2030-02-22,Active
+X-Ray Machine,Dräger,Model-369wU,SN-537208,PET,2019-02-16,2025-04-09,Retired
+Infusion Pump,Philips,Model-622Xj,SN-161773,OT,2015-07-16,2027-01-10,In Repair
+Surgical Light,Fresenius,Model-062SW,SN-249842,ICU,2017-11-25,2028-04-08,In Repair
+Crash Cart,Stryker,Model-824ei,SN-541006,GENERAL WARD,2020-05-22,2026-06-29,Retired
+CT Scanner,Stryker,Model-504vt,SN-409338,ICU,2023-11-04,2028-07-12,In Repair
+Ultrasound Machine,Stryker,Model-412Jx,SN-246279,ICU,2019-11-26,2024-07-09,In Repair
+Patient Monitor,Mindray,Model-008uh,SN-729022,OT,2023-09-09,2029-06-05,Retired
+ECG Monitor,Dräger,Model-529ph,SN-793109,CATH LAB,2020-12-04,2027-10-21,Retired
+ECMO Machine,Mindray,Model-384Qh,SN-996030,ULTRASOUND,2018-12-04,2028-01-27,Retired
+OT Table,GE Healthcare,Model-504KC,SN-033704,CATH LAB,2018-11-23,2025-12-28,Active
+Surgical Light,GE Healthcare,Model-511Kl,SN-234459,ULTRASOUND,2015-10-02,2028-01-11,In Repair
+Defibrillator,Baxter,Model-679nZ,SN-894503,ICU,2017-01-02,2028-02-05,In Repair
+ECMO Machine,Canon Medical,Model-392tS,SN-584480,ECG Room,2016-02-01,2024-10-22,Active
+Anesthesia Machine,Baxter,Model-222Ef,SN-500645,ICU,2023-04-17,2030-04-10,Active
+ECG Monitor,Dräger,Model-909vX,SN-578727,CATH LAB,2017-08-17,2029-07-20,In Repair
+Incubator,Hitachi Medical,Model-872xx,SN-400569,ECG Room,2018-04-29,2027-08-29,Active
+Incubator,Olympus,Model-504jH,SN-274782,ULTRASOUND,2024-03-14,2027-11-15,Retired
+Anesthesia Machine,Philips,Model-213WT,SN-208144,ULTRASOUND,2019-11-19,2025-11-25,Active
+ECMO Machine,Siemens Healthineers,Model-197fE,SN-640373,Doctors Cabin,2023-10-20,2028-10-13,In Repair
+PET Scanner,Canon Medical,Model-656hp,SN-574755,GENERAL WARD,2019-03-22,2026-07-16,In Repair
+Defibrillator,Siemens Healthineers,Model-494as,SN-982958,MRI,2016-06-12,2026-08-06,In Repair
+Crash Cart,Canon Medical,Model-129pd,SN-787493,MRI,2018-09-23,2029-12-11,In Repair
+X-Ray Machine,Siemens Healthineers,Model-639ih,SN-176419,ECG Room,2021-10-17,2028-12-23,In Repair
+Endoscope,Hitachi Medical,Model-410UN,SN-794694,Physiotherapy Room,2020-10-06,2024-09-26,Retired
+Incubator,Fresenius,Model-390uX,SN-655076,CATH LAB,2019-09-28,2028-11-28,Retired
+C-Arm,Siemens Healthineers,Model-567ir,SN-555652,PET,2017-05-23,2026-02-22,Retired
+Infusion Pump,Hitachi Medical,Model-600ll,SN-900840,Physiotherapy Room,2021-08-11,2027-05-05,Active
+Defibrillator,Canon Medical,Model-859xK,SN-523624,Doctors Cabin,2018-12-08,2027-12-14,In Repair
+Anesthesia Machine,GE Healthcare,Model-285Zi,SN-002731,Emergency Department,2016-02-29,2026-05-26,Active
+Sterilizer,Fresenius,Model-872BY,SN-635534,CATH LAB,2018-01-05,2030-01-20,Active
+Anesthesia Machine,Fresenius,Model-698ae,SN-678534,CT-ICU,2019-11-12,2026-09-13,Retired
+Heart Lung Machine,Dräger,Model-857cg,SN-533947,ICU,2021-09-27,2026-02-02,Retired
+X-Ray Machine,Mindray,Model-271iQ,SN-937921,CT-ICU,2018-09-01,2030-02-01,In Repair
+Suction Pump,Philips,Model-942uW,SN-819022,Emergency Department,2016-04-16,2024-12-21,Active
+PET Scanner,Mindray,Model-039al,SN-039712,Emergency Department,2019-08-02,2025-03-22,Retired
+C-Arm,Mindray,Model-098rk,SN-169411,Physiotherapy Room,2016-09-15,2029-03-28,In Repair
+Patient Monitor,Canon Medical,Model-750ai,SN-587243,OT,2016-05-17,2027-09-19,In Repair
+Defibrillator,Baxter,Model-758uC,SN-940596,ECG Room,2016-05-11,2029-07-23,Retired
+ECG Monitor,Medtronic,Model-259Nv,SN-099006,ICU,2016-08-20,2025-01-14,Active
+Ventilator,Stryker,Model-233Fq,SN-672121,CATH LAB,2022-11-04,2028-11-02,Active
+Dialysis Machine,Baxter,Model-177vf,SN-163078,CATH LAB,2022-05-25,2026-04-19,Active
+Heart Lung Machine,Olympus,Model-591iK,SN-170980,GENERAL WARD,2019-12-21,2026-12-24,Active
+Crash Cart,Fresenius,Model-382Rc,SN-021291,Physiotherapy Room,2020-11-25,2027-08-19,Retired
+Defibrillator,Medtronic,Model-899uC,SN-475298,Doctors Cabin,2017-03-31,2029-07-20,Active
+Infusion Pump,Stryker,Model-500DP,SN-016790,MRI,2023-02-01,2026-04-10,Retired
+Defibrillator,Mindray,Model-389FC,SN-388457,CATH LAB,2017-05-07,2026-07-01,In Repair
+Anesthesia Machine,Fresenius,Model-853zx,SN-097193,ULTRASOUND,2016-01-12,2029-09-19,In Repair
+ECG Monitor,Philips,Model-895tv,SN-087260,MRI,2023-04-18,2028-08-01,In Repair
+Infusion Pump,Hitachi Medical,Model-925uR,SN-211597,ULTRASOUND,2017-01-07,2024-06-01,Active
+X-Ray Machine,Philips,Model-073IG,SN-456627,Doctors Cabin,2020-07-13,2026-04-05,In Repair
+Defibrillator,Stryker,Model-667br,SN-042223,Physiotherapy Room,2016-08-31,2028-01-01,In Repair
+PET Scanner,Canon Medical,Model-500JV,SN-710430,CT-ICU,2023-12-09,2024-12-09,In Repair
+Suction Pump,Stryker,Model-100Ze,SN-117660,OT,2017-02-10,2029-12-12,Active
+Patient Monitor,Fresenius,Model-517SK,SN-192240,OT,2016-11-23,2028-07-21,Retired
+Ultrasound Machine,Fresenius,Model-097Xl,SN-930385,GENERAL WARD,2017-09-11,2029-07-23,Retired
+X-Ray Machine,Olympus,Model-119VO,SN-543194,PET,2023-07-27,2025-05-20,In Repair
+Ultrasound Machine,Canon Medical,Model-320IV,SN-991452,CT,2020-03-11,2025-09-03,Retired
+Ultrasound Machine,Hitachi Medical,Model-419LO,SN-143418,ULTRASOUND,2016-02-06,2026-02-24,Retired
+Endoscope,Philips,Model-904iI,SN-396814,PET,2015-10-27,2027-10-12,Retired
+BP Machines,Philips,Model-170gi,SN-681777,Emergency Department,2021-09-10,2026-02-16,In Repair
+Patient Monitor,GE Healthcare,Model-054Bc,SN-201061,OT,2019-01-14,2025-05-25,Active
+Sterilizer,Medtronic,Model-238Yz,SN-639670,GENERAL WARD,2016-08-27,2027-08-09,In Repair
+Suction Pump,Fresenius,Model-775ut,SN-669134,OT,2017-02-11,2028-04-22,In Repair
+Incubator,Stryker,Model-171XD,SN-292113,ECG Room,2019-12-14,2028-07-26,Active
+OT Table,Siemens Healthineers,Model-052Ji,SN-626062,ECG Room,2019-08-12,2025-07-25,In Repair
+Surgical Light,GE Healthcare,Model-088zN,SN-053936,Emergency Department,2022-09-23,2026-10-05,Active
+Suction Pump,Olympus,Model-837wx,SN-807136,ULTRASOUND,2016-08-10,2028-06-03,Active
+Infusion Pump,Medtronic,Model-819RB,SN-326804,CT,2018-01-07,2029-08-10,Active
+Incubator,Stryker,Model-461Lf,SN-208394,ECG Room,2022-12-29,2025-01-24,In Repair
+ECMO Machine,Hitachi Medical,Model-207nN,SN-165029,CT-ICU,2020-09-30,2024-06-20,Active
+Ventilator,Mindray,Model-003jx,SN-225461,ICU,2022-04-03,2025-05-21,Retired
+ECG Monitor,GE Healthcare,Model-861Xq,SN-142842,Emergency Department,2018-08-05,2025-07-25,Active
+Heart Lung Machine,GE Healthcare,Model-013Jg,SN-605121,CT,2020-09-16,2025-10-06,Retired
+Haemothermy,GE Healthcare,Model-182mq,SN-852027,CT,2021-02-03,2025-12-16,Active
+ECG Monitor,Medtronic,Model-111VC,SN-160820,Doctors Cabin,2018-09-30,2025-04-13,Active
+Anesthesia Machine,Fresenius,Model-663OF,SN-183065,MRI,2024-03-30,2025-08-11,In Repair
+Crash Cart,Stryker,Model-684uf,SN-805067,ULTRASOUND,2019-07-30,2025-09-11,Active
+BP Machines,Baxter,Model-520qZ,SN-610531,Emergency Department,2022-11-27,2028-04-12,In Repair
+BP Machines,Baxter,Model-994ot,SN-403997,CT-ICU,2016-03-26,2025-09-14,Retired
+Crash Cart,Siemens Healthineers,Model-008ck,SN-456625,ECG Room,2018-03-28,2027-06-20,In Repair
+C-Arm,Mindray,Model-669BS,SN-785256,PET,2021-06-01,2027-02-10,Active
+ECMO Machine,Canon Medical,Model-153Cs,SN-486338,Emergency Department,2018-04-24,2027-02-02,Retired
+Endoscope,Mindray,Model-869BK,SN-035891,CT-ICU,2021-12-06,2025-06-05,Active
+Sterilizer,Canon Medical,Model-750kr,SN-401685,Doctors Cabin,2023-10-17,2025-01-30,Active
+Haemothermy,Fresenius,Model-582HO,SN-859279,ECG Room,2022-08-16,2029-06-15,Retired
+BP Machines,Canon Medical,Model-190vz,SN-093229,OT,2020-07-15,2030-04-15,Retired
+MRI Machine,Medtronic,Model-506MU,SN-354366,CATH LAB,2019-07-21,2027-03-31,Retired
+PET Scanner,Philips,Model-352Wq,SN-434711,Doctors Cabin,2023-08-09,2025-07-02,In Repair
+ECG Monitor,Siemens Healthineers,Model-212sf,SN-614946,GENERAL WARD,2018-09-08,2027-11-12,In Repair
+Patient Monitor,Medtronic,Model-193Kc,SN-859821,MRI,2018-05-24,2029-07-25,Retired
+X-Ray Machine,GE Healthcare,Model-993gC,SN-204787,OT,2023-09-11,2026-12-28,Active
+Ventilator,Hitachi Medical,Model-446hR,SN-912954,CT,2020-06-14,2024-05-07,Active
+MRI Machine,Mindray,Model-015Kt,SN-261740,ICU,2015-05-04,2028-03-31,Active
+ECMO Machine,Mindray,Model-967WN,SN-380248,CT,2023-02-16,2025-11-20,Active
+Defibrillator,Canon Medical,Model-980PA,SN-358204,Emergency Department,2023-10-17,2030-03-25,Active
+BP Machines,Baxter,Model-561UJ,SN-213877,GENERAL WARD,2016-04-05,2027-01-06,Retired
+Dialysis Machine,Stryker,Model-460Fv,SN-433924,ULTRASOUND,2017-12-11,2026-10-21,Active
+Dialysis Machine,Fresenius,Model-710oZ,SN-556607,GENERAL WARD,2023-03-30,2028-12-10,In Repair
+Incubator,GE Healthcare,Model-091iU,SN-824550,OT,2015-08-27,2024-06-27,Retired
+PET Scanner,Siemens Healthineers,Model-858df,SN-204850,Emergency Department,2020-08-19,2027-08-04,Active
+Haemothermy,Olympus,Model-231Vi,SN-496409,Doctors Cabin,2023-03-08,2029-10-21,Retired
+Patient Monitor,Fresenius,Model-896ES,SN-522588,Physiotherapy Room,2016-12-07,2026-01-10,In Repair
+Endoscope,Stryker,Model-167te,SN-207355,Emergency Department,2020-01-28,2029-03-26,In Repair
+BP Machines,Dräger,Model-920Hc,SN-038379,Physiotherapy Room,2017-01-26,2029-09-25,Retired
+C-Arm,Stryker,Model-612UN,SN-974156,CT,2015-08-22,2027-09-22,Retired
+BP Machines,Fresenius,Model-638oh,SN-659103,CATH LAB,2023-07-25,2026-01-21,Active
+X-Ray Machine,Hitachi Medical,Model-592Hr,SN-953735,CT,2023-10-20,2029-09-11,In Repair
+Dialysis Machine,Dräger,Model-967xg,SN-575530,PET,2022-03-23,2029-11-27,Retired
+CT Scanner,Philips,Model-005Ch,SN-588050,ULTRASOUND,2016-05-03,2030-03-17,Active
+OT Table,Philips,Model-622uI,SN-446162,ULTRASOUND,2018-01-11,2029-05-20,In Repair
+Incubator,Stryker,Model-787pe,SN-900442,ECG Room,2023-11-18,2025-05-23,Active
+C-Arm,Dräger,Model-413YG,SN-488273,ICU,2016-10-30,2028-11-11,Retired
+PET Scanner,Baxter,Model-165gg,SN-960455,ULTRASOUND,2018-07-02,2026-02-08,In Repair
+Endoscope,Mindray,Model-555bH,SN-415754,PET,2017-05-24,2025-02-25,In Repair
+Heart Lung Machine,Dräger,Model-102Ot,SN-036939,Physiotherapy Room,2017-09-22,2025-08-23,Retired
+ECMO Machine,Hitachi Medical,Model-343vh,SN-638899,GENERAL WARD,2015-07-31,2024-09-09,In Repair
+MRI Machine,Mindray,Model-416Vl,SN-481567,OT,2022-05-16,2029-08-11,Retired
+Endoscope,Siemens Healthineers,Model-839aU,SN-836465,CT,2019-09-15,2028-08-08,Active
+C-Arm,GE Healthcare,Model-951fn,SN-544832,CT-ICU,2018-09-02,2024-11-09,In Repair
+Ventilator,Baxter,Model-596bD,SN-553942,CT-ICU,2018-10-09,2029-06-08,In Repair
+Crash Cart,GE Healthcare,Model-900La,SN-561861,Physiotherapy Room,2020-09-28,2026-04-21,Retired
+OT Table,Olympus,Model-834pb,SN-650619,GENERAL WARD,2023-09-14,2025-04-04,Retired
+BP Machines,Canon Medical,Model-877Jp,SN-280185,Physiotherapy Room,2023-06-01,2028-01-16,Active
+C-Arm,Philips,Model-984rH,SN-818184,PET,2021-12-15,2027-06-17,Retired
+Sterilizer,Fresenius,Model-255zE,SN-220709,ULTRASOUND,2021-11-19,2027-10-26,Active
+CT Scanner,GE Healthcare,Model-696fg,SN-207037,Physiotherapy Room,2023-08-16,2027-01-26,Active
+MRI Machine,Medtronic,Model-436Sc,SN-361899,CT-ICU,2023-03-26,2029-06-01,In Repair
+Anesthesia Machine,Philips,Model-185Ew,SN-593430,ICU,2017-01-19,2026-08-21,Retired
+OT Table,Medtronic,Model-895Pb,SN-683958,CT-ICU,2020-06-06,2028-02-23,Retired
+Dialysis Machine,Fresenius,Model-163yE,SN-752296,GENERAL WARD,2020-02-04,2030-04-12,In Repair
+ECG Monitor,Dräger,Model-919Va,SN-448873,CT,2016-07-21,2027-08-03,In Repair
+Endoscope,Canon Medical,Model-579ea,SN-242331,CT-ICU,2021-10-02,2028-11-09,Retired
+C-Arm,Siemens Healthineers,Model-406kl,SN-019633,CT,2020-07-14,2025-03-05,Retired
+OT Table,Hitachi Medical,Model-374Ya,SN-241262,GENERAL WARD,2017-04-25,2027-04-09,Active
+MRI Machine,Canon Medical,Model-118yY,SN-316020,ECG Room,2023-04-23,2027-08-02,Retired
+Haemothermy,Canon Medical,Model-253zt,SN-908368,CT-ICU,2015-06-21,2025-12-17,In Repair
+ECMO Machine,Stryker,Model-405GB,SN-608186,GENERAL WARD,2021-05-08,2027-05-24,In Repair
+Sterilizer,Medtronic,Model-372TW,SN-713383,ECG Room,2019-03-23,2027-03-07,Active
+Crash Cart,Philips,Model-198zl,SN-868987,Emergency Department,2016-10-15,2026-08-12,In Repair
+Surgical Light,Baxter,Model-416Dw,SN-312953,MRI,2016-09-07,2029-11-30,In Repair
+BP Machines,Philips,Model-694eD,SN-521113,OT,2016-04-18,2026-03-07,In Repair
+Heart Lung Machine,Medtronic,Model-110MY,SN-320258,CT,2018-08-05,2026-02-06,Active
+Infusion Pump,Mindray,Model-191Sa,SN-190857,ECG Room,2019-05-03,2027-03-15,Active
+Crash Cart,Hitachi Medical,Model-534qJ,SN-650195,MRI,2023-11-12,2030-02-25,Active
+Infusion Pump,Hitachi Medical,Model-263ma,SN-861989,ICU,2016-10-03,2030-04-18,In Repair
+Ultrasound Machine,Mindray,Model-802Hu,SN-043834,ECG Room,2017-03-03,2027-01-04,Retired
+Surgical Light,Stryker,Model-677hP,SN-965605,Physiotherapy Room,2015-10-23,2025-06-04,Retired
+Defibrillator,Dräger,Model-379Wt,SN-756536,ECG Room,2018-06-09,2030-01-30,Active
+Heart Lung Machine,Olympus,Model-025pF,SN-753425,Emergency Department,2015-05-24,2026-08-28,In Repair
+Incubator,Olympus,Model-851aE,SN-008438,OT,2019-01-12,2029-04-29,In Repair
+Dialysis Machine,Siemens Healthineers,Model-530IZ,SN-884161,ECG Room,2022-11-14,2027-05-06,Retired
+Defibrillator,Canon Medical,Model-753Zt,SN-002819,GENERAL WARD,2019-02-16,2026-10-20,In Repair
+C-Arm,Olympus,Model-411CC,SN-951827,CT,2018-01-03,2029-11-16,Active
+Patient Monitor,Canon Medical,Model-748UQ,SN-102604,ICU,2015-09-28,2029-05-27,Active
+Ultrasound Machine,GE Healthcare,Model-713Ie,SN-767633,PET,2020-01-16,2030-02-05,In Repair
+X-Ray Machine,Baxter,Model-331AR,SN-179419,CT,2020-04-06,2028-03-29,Active
+ECG Monitor,Dräger,Model-619ET,SN-474237,GENERAL WARD,2020-05-17,2027-09-22,Retired
+Endoscope,Hitachi Medical,Model-242Fi,SN-533507,GENERAL WARD,2021-03-17,2025-05-14,Retired
+Sterilizer,Siemens Healthineers,Model-425LE,SN-211080,Physiotherapy Room,2021-05-29,2029-02-18,In Repair
+Dialysis Machine,Fresenius,Model-498sA,SN-069895,Emergency Department,2017-09-19,2025-08-16,Retired
+Ultrasound Machine,Baxter,Model-498Ua,SN-173336,MRI,2023-11-17,2028-12-17,Active
+Ventilator,Philips,Model-823Pf,SN-322366,MRI,2021-04-24,2025-03-08,Active
+Crash Cart,Siemens Healthineers,Model-657ut,SN-460638,ICU,2018-02-26,2029-04-03,Retired
+Haemothermy,Mindray,Model-941bd,SN-500972,CATH LAB,2023-09-25,2028-07-20,Retired
+Haemothermy,Olympus,Model-531eO,SN-874837,CT,2020-09-06,2027-09-28,In Repair
+Haemothermy,Hitachi Medical,Model-235Yi,SN-002328,Emergency Department,2015-12-02,2024-05-26,In Repair
+Surgical Light,GE Healthcare,Model-467JJ,SN-135203,PET,2020-09-21,2025-12-24,Retired
+Defibrillator,Mindray,Model-539cJ,SN-854189,CATH LAB,2022-03-12,2027-05-14,In Repair
+MRI Machine,Mindray,Model-370Fd,SN-614496,CT-ICU,2018-09-17,2025-10-22,Retired
+OT Table,Baxter,Model-204vc,SN-358823,CT-ICU,2023-06-01,2026-03-18,In Repair
+PET Scanner,Stryker,Model-854bk,SN-184520,ICU,2016-12-31,2027-02-06,In Repair
+MRI Machine,Mindray,Model-170XF,SN-211507,MRI,2015-07-18,2028-09-11,Retired
+Crash Cart,Dräger,Model-438tm,SN-494606,Emergency Department,2023-07-10,2027-07-20,Active
+Dialysis Machine,Siemens Healthineers,Model-100Lu,SN-048894,CT,2022-02-19,2028-12-12,In Repair
+C-Arm,Stryker,Model-047PX,SN-671042,GENERAL WARD,2017-09-26,2027-05-26,Retired
+Dialysis Machine,Hitachi Medical,Model-829Az,SN-017188,ICU,2016-06-06,2027-10-17,Retired
+PET Scanner,Mindray,Model-638oW,SN-403426,PET,2016-08-23,2030-04-08,Retired
+Anesthesia Machine,Dräger,Model-927Xr,SN-663711,MRI,2023-07-03,2025-11-06,In Repair
+Crash Cart,Dräger,Model-860qz,SN-288066,MRI,2018-04-24,2025-10-10,Active
+Crash Cart,Mindray,Model-692hf,SN-303626,ECG Room,2023-09-18,2027-02-06,In Repair
+Ultrasound Machine,Canon Medical,Model-488Qo,SN-532284,ICU,2023-10-23,2027-09-20,Active
+Sterilizer,Mindray,Model-865dG,SN-998354,CATH LAB,2016-04-11,2027-10-30,Active
+X-Ray Machine,GE Healthcare,Model-106ef,SN-602598,ULTRASOUND,2018-08-20,2026-07-11,Retired
+Crash Cart,Hitachi Medical,Model-684WU,SN-862780,Physiotherapy Room,2020-06-23,2028-03-20,Retired
+Ultrasound Machine,Medtronic,Model-462je,SN-535507,Doctors Cabin,2017-08-10,2027-06-26,In Repair
+BP Machines,Stryker,Model-294Td,SN-879459,ULTRASOUND,2018-06-19,2026-05-24,Active
+Heart Lung Machine,Medtronic,Model-616Rz,SN-981228,CT-ICU,2022-05-14,2029-03-17,Active
+ECMO Machine,Fresenius,Model-082Pf,SN-396298,CATH LAB,2023-09-29,2026-03-22,In Repair
+Endoscope,Canon Medical,Model-632UI,SN-898331,ICU,2022-10-29,2026-02-05,In Repair
+BP Machines,Fresenius,Model-742mW,SN-799119,CATH LAB,2023-07-08,2026-02-02,In Repair
+OT Table,Mindray,Model-919Hj,SN-195531,ICU,2021-07-23,2028-01-27,Retired
+Ventilator,GE Healthcare,Model-281OK,SN-196655,Emergency Department,2016-01-25,2029-09-30,In Repair
+Defibrillator,Siemens Healthineers,Model-435KR,SN-006186,ULTRASOUND,2015-09-12,2026-09-02,In Repair
+Dialysis Machine,Fresenius,Model-693Vl,SN-699920,MRI,2020-12-21,2024-09-06,Active
+Anesthesia Machine,Philips,Model-691ZL,SN-739556,ECG Room,2016-02-02,2029-09-10,Active
+Surgical Light,Olympus,Model-989eu,SN-277537,Physiotherapy Room,2023-04-22,2027-06-21,In Repair
+Anesthesia Machine,Olympus,Model-681uI,SN-992243,Emergency Department,2023-12-31,2027-09-29,In Repair
+Haemothermy,Stryker,Model-914pI,SN-183197,ULTRASOUND,2018-03-16,2029-03-07,Active
+Defibrillator,Medtronic,Model-785eR,SN-848641,CT,2020-07-25,2027-02-18,In Repair
+MRI Machine,Canon Medical,Model-547lo,SN-309357,Doctors Cabin,2022-12-07,2024-05-22,In Repair
+Defibrillator,GE Healthcare,Model-103zH,SN-580193,ICU,2019-11-24,2028-04-17,In Repair
+OT Table,Stryker,Model-687TB,SN-361756,CT,2017-01-14,2026-06-03,Retired
+Dialysis Machine,Hitachi Medical,Model-492FF,SN-333170,ULTRASOUND,2020-01-13,2025-09-22,In Repair
+PET Scanner,Fresenius,Model-261Fq,SN-849426,Doctors Cabin,2023-02-23,2028-01-19,In Repair
+Patient Monitor,Olympus,Model-460Hd,SN-971465,Emergency Department,2019-03-26,2029-12-23,Retired
+Ventilator,Siemens Healthineers,Model-918jb,SN-117746,MRI,2020-10-18,2026-06-12,Active
+Surgical Light,Baxter,Model-856YS,SN-437712,CATH LAB,2019-02-06,2024-05-13,Active
+Incubator,Olympus,Model-724MP,SN-683640,MRI,2018-08-28,2029-07-12,Active
+Patient Monitor,Baxter,Model-566cG,SN-619133,OT,2019-08-21,2026-09-13,Retired
+Incubator,Siemens Healthineers,Model-303ex,SN-687497,Physiotherapy Room,2023-04-12,2029-07-28,Active
+Defibrillator,Philips,Model-576uw,SN-885388,ULTRASOUND,2020-11-24,2025-08-26,Retired
+ECG Monitor,Dräger,Model-841yc,SN-616641,ULTRASOUND,2015-09-23,2029-11-30,Retired
+Infusion Pump,Fresenius,Model-137Vu,SN-204082,Doctors Cabin,2021-08-12,2026-08-21,Retired
+Suction Pump,Hitachi Medical,Model-624XC,SN-154929,CATH LAB,2019-07-06,2028-09-24,In Repair
+Ultrasound Machine,Philips,Model-024AX,SN-501904,Physiotherapy Room,2018-03-10,2027-11-01,Retired
+ECMO Machine,GE Healthcare,Model-595Dp,SN-168905,CT,2019-07-08,2028-05-22,Retired
+Ultrasound Machine,Canon Medical,Model-726WF,SN-234042,MRI,2016-09-26,2026-04-02,Retired
+Endoscope,Stryker,Model-762Uz,SN-773869,CT-ICU,2017-05-19,2024-09-23,Active
+Ultrasound Machine,Philips,Model-877og,SN-236384,CT,2022-10-06,2025-05-11,Retired
+Sterilizer,Stryker,Model-669sx,SN-669652,ICU,2015-05-24,2029-12-04,Active
+X-Ray Machine,Siemens Healthineers,Model-779Pv,SN-402422,CT,2018-04-13,2026-02-07,Active
+ECG Monitor,Olympus,Model-265Rc,SN-889319,CT-ICU,2022-03-22,2027-05-23,Retired
+MRI Machine,GE Healthcare,Model-772Fo,SN-663903,Emergency Department,2016-08-28,2027-05-19,Retired
+Defibrillator,Mindray,Model-925oo,SN-935320,CT,2021-07-31,2028-04-17,Retired
+X-Ray Machine,Stryker,Model-052dH,SN-941651,Doctors Cabin,2021-09-07,2027-02-01,Retired
+Ventilator,Fresenius,Model-432os,SN-676379,PET,2020-09-12,2029-07-13,Active
+OT Table,Siemens Healthineers,Model-450Tx,SN-538753,ECG Room,2018-01-11,2030-01-10,In Repair
+Anesthesia Machine,GE Healthcare,Model-192aR,SN-301841,MRI,2019-12-02,2026-02-01,In Repair
+ECG Monitor,Stryker,Model-872td,SN-635563,ECG Room,2016-07-17,2026-01-26,Active
+ECG Monitor,Olympus,Model-462Zz,SN-857506,ECG Room,2017-09-16,2028-03-22,Retired
+X-Ray Machine,Baxter,Model-849ti,SN-204199,MRI,2019-07-09,2027-06-14,In Repair
+Suction Pump,Hitachi Medical,Model-340gl,SN-341703,CATH LAB,2017-01-02,2025-09-28,Active
+MRI Machine,Hitachi Medical,Model-882TA,SN-514027,GENERAL WARD,2016-07-24,2028-01-08,Retired
+PET Scanner,Siemens Healthineers,Model-983jG,SN-949056,Emergency Department,2016-09-19,2024-10-28,In Repair
+Haemothermy,Stryker,Model-830MJ,SN-072893,Doctors Cabin,2017-04-20,2028-04-18,Retired
+Defibrillator,Philips,Model-091sX,SN-161621,GENERAL WARD,2016-04-21,2025-09-21,Retired
+Heart Lung Machine,Dräger,Model-753Jw,SN-026633,PET,2019-12-20,2025-10-06,In Repair
+C-Arm,Fresenius,Model-631VV,SN-490310,Doctors Cabin,2024-03-25,2025-08-09,Active
+MRI Machine,Hitachi Medical,Model-516ok,SN-362354,CT,2020-10-27,2028-12-12,Active
+Ventilator,Olympus,Model-170gy,SN-618399,PET,2023-07-05,2028-02-12,Retired
+Sterilizer,Fresenius,Model-509Iu,SN-252928,ICU,2021-01-01,2027-08-08,Retired
+Incubator,Canon Medical,Model-036Jn,SN-260382,ECG Room,2018-01-24,2025-10-26,Retired
+PET Scanner,Siemens Healthineers,Model-288tq,SN-287851,ULTRASOUND,2016-01-05,2029-06-26,In Repair
+X-Ray Machine,Siemens Healthineers,Model-715BI,SN-480355,CT-ICU,2018-08-06,2027-03-11,Active
+Haemothermy,Dräger,Model-379tS,SN-233947,Emergency Department,2024-01-12,2027-06-20,In Repair
+Dialysis Machine,Siemens Healthineers,Model-638rT,SN-028137,ICU,2023-08-28,2027-01-22,Active
+ECG Monitor,Dräger,Model-439Bk,SN-807787,ICU,2018-06-03,2027-08-30,Active
+CT Scanner,Philips,Model-863Sw,SN-299369,PET,2020-04-26,2025-01-26,Active
+Surgical Light,Philips,Model-025Ls,SN-570434,ICU,2018-09-27,2025-06-16,In Repair
+Ultrasound Machine,Stryker,Model-858dd,SN-073007,ULTRASOUND,2022-10-07,2024-07-23,Active
+Infusion Pump,Mindray,Model-259Bg,SN-930147,ECG Room,2022-09-09,2026-09-15,In Repair
+C-Arm,Medtronic,Model-226FG,SN-463194,Emergency Department,2017-06-04,2027-05-23,Active
+MRI Machine,Mindray,Model-225VF,SN-500246,CT,2019-04-01,2028-01-25,Retired
+Ultrasound Machine,Philips,Model-973hZ,SN-612379,Emergency Department,2024-01-23,2026-04-21,In Repair
+PET Scanner,Dräger,Model-953TV,SN-742945,ECG Room,2021-08-14,2028-12-24,Active
+BP Machines,Stryker,Model-192TI,SN-026345,ULTRASOUND,2019-11-18,2028-09-12,Active
+Incubator,Canon Medical,Model-343By,SN-129914,Physiotherapy Room,2021-09-21,2029-03-28,Retired
+ECG Monitor,Fresenius,Model-597QO,SN-797786,ECG Room,2017-08-07,2027-08-29,Active
+CT Scanner,Fresenius,Model-504zp,SN-777482,ULTRASOUND,2021-09-15,2025-06-23,In Repair
+Ventilator,Hitachi Medical,Model-873cZ,SN-181773,Physiotherapy Room,2017-02-15,2029-10-10,Active
+Haemothermy,Olympus,Model-539qr,SN-012039,Physiotherapy Room,2017-07-24,2029-11-30,In Repair
+Defibrillator,Philips,Model-497Tr,SN-973652,CATH LAB,2016-05-30,2027-09-16,Active
+Suction Pump,Dräger,Model-802kj,SN-189257,GENERAL WARD,2019-12-18,2030-01-17,In Repair
+Infusion Pump,Stryker,Model-897QQ,SN-829097,CT,2022-09-05,2025-02-10,In Repair
+BP Machines,Philips,Model-468UQ,SN-912208,ULTRASOUND,2022-08-30,2025-05-30,In Repair
+X-Ray Machine,Fresenius,Model-349lj,SN-421232,ULTRASOUND,2022-05-16,2025-05-12,Active
+Suction Pump,Philips,Model-986JD,SN-336885,PET,2018-05-17,2024-07-14,Active
+ECMO Machine,Fresenius,Model-093jP,SN-267742,ICU,2016-12-26,2027-08-02,Retired
+BP Machines,Medtronic,Model-457MI,SN-157628,Emergency Department,2018-12-19,2026-05-05,Retired
+ECG Monitor,Dräger,Model-548tn,SN-041394,PET,2022-08-21,2025-11-25,In Repair
+Crash Cart,Hitachi Medical,Model-785Sa,SN-444900,CT,2017-08-28,2024-09-17,In Repair
+ECMO Machine,Hitachi Medical,Model-414Gp,SN-943629,Doctors Cabin,2020-05-06,2030-03-24,Active
+BP Machines,Stryker,Model-238WZ,SN-270708,OT,2023-09-22,2025-08-22,In Repair
+Ventilator,Siemens Healthineers,Model-355kz,SN-815178,GENERAL WARD,2015-11-27,2025-11-24,Active
+BP Machines,GE Healthcare,Model-113FX,SN-377195,CATH LAB,2017-01-27,2029-01-08,Retired
+C-Arm,Mindray,Model-071Uo,SN-687623,Emergency Department,2015-11-27,2027-08-31,In Repair
+CT Scanner,GE Healthcare,Model-804eF,SN-886503,CATH LAB,2016-12-15,2024-11-29,In Repair
+Anesthesia Machine,Baxter,Model-227Ss,SN-771890,GENERAL WARD,2020-10-28,2024-11-26,Retired
+Anesthesia Machine,Medtronic,Model-626dY,SN-608846,OT,2017-04-28,2026-09-11,Retired
+Endoscope,Dräger,Model-800ct,SN-336643,GENERAL WARD,2016-07-04,2024-06-22,In Repair
+Surgical Light,Canon Medical,Model-580od,SN-667273,CT,2019-04-06,2026-07-01,Active
+Anesthesia Machine,GE Healthcare,Model-744SU,SN-810035,ULTRASOUND,2017-11-09,2030-01-16,Active
+Surgical Light,Medtronic,Model-983Of,SN-106018,ECG Room,2019-10-13,2027-08-07,In Repair
+MRI Machine,Hitachi Medical,Model-169qM,SN-048153,Emergency Department,2019-06-15,2028-02-25,In Repair
+Anesthesia Machine,Olympus,Model-725tR,SN-742921,Emergency Department,2021-09-02,2026-01-13,Active
+ECMO Machine,Baxter,Model-919OE,SN-577023,MRI,2023-06-09,2029-04-06,Retired
+Anesthesia Machine,Baxter,Model-658Cf,SN-254855,ULTRASOUND,2018-11-24,2024-10-20,Retired
+Surgical Light,Stryker,Model-243na,SN-521616,Emergency Department,2017-04-01,2029-09-20,Retired
+Defibrillator,Medtronic,Model-886YE,SN-554241,ULTRASOUND,2021-04-26,2027-01-19,Retired
+Anesthesia Machine,Hitachi Medical,Model-755fL,SN-296844,ULTRASOUND,2019-09-30,2025-05-14,Retired
+ECMO Machine,Mindray,Model-412mQ,SN-289350,ICU,2018-03-18,2028-11-02,In Repair
+OT Table,Olympus,Model-106eY,SN-585136,Emergency Department,2016-06-06,2027-01-22,Active
+Ventilator,Stryker,Model-874NI,SN-416738,ICU,2018-08-27,2024-07-18,Active
+Ultrasound Machine,Baxter,Model-097WE,SN-333835,GENERAL WARD,2022-12-24,2025-07-08,Retired
+X-Ray Machine,Olympus,Model-146QE,SN-240997,ICU,2019-10-01,2026-12-25,Retired
+BP Machines,Stryker,Model-627EH,SN-975668,ICU,2020-08-30,2029-06-25,Active
+Crash Cart,Mindray,Model-839bK,SN-854376,ECG Room,2019-08-10,2025-08-07,Active
+Suction Pump,GE Healthcare,Model-813Ll,SN-040013,CT-ICU,2016-03-23,2026-09-13,Retired
+X-Ray Machine,Baxter,Model-725Lt,SN-215767,ULTRASOUND,2016-05-14,2028-02-04,Retired
+Endoscope,Canon Medical,Model-662XM,SN-597159,CT,2017-09-05,2027-01-31,Retired
+Incubator,Olympus,Model-018RL,SN-341246,CT-ICU,2016-08-09,2028-02-13,Active
+MRI Machine,Medtronic,Model-705CI,SN-299368,Doctors Cabin,2017-03-22,2029-03-16,In Repair
+Sterilizer,Philips,Model-486PC,SN-088981,CT-ICU,2023-10-26,2026-03-12,Active
+Defibrillator,Siemens Healthineers,Model-901Nr,SN-507435,Emergency Department,2022-10-27,2026-08-19,In Repair
+Defibrillator,Medtronic,Model-017DE,SN-626763,ICU,2019-03-30,2027-02-07,In Repair
+Ultrasound Machine,Fresenius,Model-760te,SN-731150,CT,2021-12-20,2029-12-30,In Repair
+Dialysis Machine,Philips,Model-476iV,SN-067200,CT,2016-02-29,2029-03-08,Retired
+Patient Monitor,Canon Medical,Model-525xU,SN-774281,CT,2020-12-24,2026-07-25,Retired
+Haemothermy,Mindray,Model-981Li,SN-813769,PET,2016-03-23,2024-09-04,Active
+Dialysis Machine,Mindray,Model-283IE,SN-024364,Emergency Department,2020-10-04,2027-09-30,In Repair
+Endoscope,Dräger,Model-669DB,SN-863201,ULTRASOUND,2024-04-02,2029-07-01,Retired
+Infusion Pump,Stryker,Model-745KP,SN-387334,ECG Room,2017-06-20,2024-07-12,In Repair
+Endoscope,Fresenius,Model-058IU,SN-325254,ECG Room,2022-02-04,2029-05-18,Active
+OT Table,Canon Medical,Model-491NW,SN-618586,ULTRASOUND,2018-10-02,2026-08-24,In Repair
+X-Ray Machine,Siemens Healthineers,Model-536Xk,SN-582371,Physiotherapy Room,2022-09-22,2028-03-09,Active
+ECMO Machine,Mindray,Model-491AP,SN-295294,CATH LAB,2018-05-01,2025-06-27,Active
+CT Scanner,Hitachi Medical,Model-769Tq,SN-265261,CT,2015-09-21,2026-02-27,Retired
+Dialysis Machine,Baxter,Model-425rT,SN-496021,PET,2023-06-15,2025-03-15,Retired
+ECMO Machine,Medtronic,Model-897Ov,SN-172040,Doctors Cabin,2016-10-02,2026-04-04,In Repair
+Infusion Pump,Medtronic,Model-671sk,SN-687679,ICU,2021-05-19,2025-01-08,Active
+MRI Machine,GE Healthcare,Model-603Ve,SN-488062,ULTRASOUND,2015-09-25,2028-02-05,Active
+Infusion Pump,GE Healthcare,Model-992fu,SN-749403,CATH LAB,2022-03-17,2029-11-13,In Repair
+Sterilizer,Medtronic,Model-180EJ,SN-214643,CT-ICU,2019-01-31,2029-12-30,Retired
+Suction Pump,Baxter,Model-892vw,SN-452961,ECG Room,2019-07-04,2025-07-05,In Repair
+Heart Lung Machine,Canon Medical,Model-407nP,SN-220420,Emergency Department,2020-07-04,2029-12-13,Active
+CT Scanner,Olympus,Model-762aw,SN-458352,ICU,2019-03-19,2024-07-27,In Repair
+Dialysis Machine,Stryker,Model-454Qa,SN-535930,PET,2021-06-05,2028-01-05,Retired
+Defibrillator,Baxter,Model-997CG,SN-637534,GENERAL WARD,2016-02-09,2027-05-26,Active
+X-Ray Machine,GE Healthcare,Model-527wL,SN-159387,Physiotherapy Room,2021-12-14,2025-04-10,Active
+Ultrasound Machine,Baxter,Model-028WV,SN-306570,Emergency Department,2016-02-10,2027-04-24,Retired
+PET Scanner,Dräger,Model-119Hc,SN-386374,PET,2015-07-12,2030-03-13,In Repair
+Ultrasound Machine,GE Healthcare,Model-792Sj,SN-688505,CT,2015-06-15,2024-07-15,In Repair
+Ultrasound Machine,Baxter,Model-939Fk,SN-894623,CT,2023-03-19,2029-05-07,Retired
+Ultrasound Machine,Mindray,Model-280zy,SN-186593,CATH LAB,2023-03-27,2027-01-16,Active
+MRI Machine,Baxter,Model-858eE,SN-986869,Doctors Cabin,2016-02-23,2025-08-29,In Repair
+X-Ray Machine,Medtronic,Model-584bU,SN-502635,Doctors Cabin,2023-07-12,2028-07-17,In Repair
+Haemothermy,Olympus,Model-062MR,SN-911680,ICU,2017-01-30,2027-09-25,Active
+Suction Pump,Philips,Model-120nF,SN-772953,PET,2016-11-07,2029-09-28,Active
+Ventilator,Medtronic,Model-250Aj,SN-246916,Doctors Cabin,2016-03-04,2026-03-18,In Repair
+Crash Cart,GE Healthcare,Model-255vO,SN-149369,CT-ICU,2017-05-25,2028-08-30,In Repair
+BP Machines,Fresenius,Model-438PU,SN-255176,ULTRASOUND,2023-10-04,2026-06-08,Active
+Incubator,Canon Medical,Model-184TA,SN-540454,GENERAL WARD,2024-04-12,2028-06-27,Retired
+OT Table,Olympus,Model-776uH,SN-821529,CT,2021-11-21,2028-03-02,Active
+ECG Monitor,Siemens Healthineers,Model-819Ft,SN-753488,PET,2022-03-26,2027-03-07,In Repair
+Suction Pump,Siemens Healthineers,Model-122Ah,SN-607648,OT,2016-06-22,2026-07-23,Active
+MRI Machine,Olympus,Model-523iw,SN-729499,MRI,2023-11-23,2029-01-16,In Repair
+CT Scanner,Mindray,Model-057xu,SN-223419,PET,2016-12-06,2026-06-13,Retired
+ECMO Machine,Stryker,Model-520ZO,SN-764221,MRI,2020-12-05,2029-09-25,Active
+CT Scanner,Siemens Healthineers,Model-315nP,SN-799447,Physiotherapy Room,2023-06-08,2025-11-08,In Repair
+Sterilizer,Philips,Model-961vF,SN-516531,OT,2016-07-24,2024-05-29,Retired
+Defibrillator,GE Healthcare,Model-297Bo,SN-007874,PET,2022-04-02,2028-03-03,In Repair
+Ventilator,Fresenius,Model-440sL,SN-194026,GENERAL WARD,2020-07-01,2029-12-15,Active
+MRI Machine,Olympus,Model-320Ab,SN-187544,Physiotherapy Room,2016-04-30,2026-10-10,Retired
+OT Table,Baxter,Model-477cW,SN-815945,ICU,2020-05-05,2027-01-05,In Repair
+Haemothermy,Olympus,Model-363Dm,SN-952893,GENERAL WARD,2022-04-13,2024-06-05,Retired
+Patient Monitor,GE Healthcare,Model-598Ou,SN-967252,Doctors Cabin,2019-12-30,2026-09-29,In Repair
+Dialysis Machine,Siemens Healthineers,Model-256EU,SN-576914,GENERAL WARD,2020-08-07,2026-07-17,Active
+ECG Monitor,Stryker,Model-066Qg,SN-122096,ULTRASOUND,2016-08-10,2027-11-25,Retired
+CT Scanner,Hitachi Medical,Model-130fz,SN-870831,MRI,2018-10-05,2024-11-19,In Repair
+PET Scanner,Siemens Healthineers,Model-315Zt,SN-351635,Physiotherapy Room,2019-11-30,2029-11-04,In Repair
+Haemothermy,Hitachi Medical,Model-243DT,SN-634848,Emergency Department,2019-04-16,2028-11-20,Retired
+Defibrillator,Philips,Model-004SW,SN-310007,CT-ICU,2019-03-20,2027-04-05,Retired
+C-Arm,Canon Medical,Model-995Rv,SN-832909,GENERAL WARD,2017-07-22,2025-06-10,In Repair
+Patient Monitor,Fresenius,Model-198bf,SN-520969,CT-ICU,2023-08-06,2025-05-12,Active
+Haemothermy,Hitachi Medical,Model-478JF,SN-723178,CT,2017-04-06,2030-02-25,In Repair
+Surgical Light,Fresenius,Model-389Dr,SN-165028,ECG Room,2021-01-25,2025-01-16,Retired
+Crash Cart,GE Healthcare,Model-882rD,SN-335974,ULTRASOUND,2016-03-01,2025-07-02,Active
+X-Ray Machine,Fresenius,Model-307rt,SN-558451,GENERAL WARD,2017-10-29,2026-12-23,Active
+Surgical Light,Dräger,Model-515Rj,SN-020643,OT,2019-05-23,2025-02-04,In Repair
+Ultrasound Machine,Medtronic,Model-061hN,SN-712564,PET,2018-01-20,2024-11-10,In Repair
+Sterilizer,Philips,Model-350MW,SN-289281,Doctors Cabin,2016-09-06,2028-01-19,Retired
+ECG Monitor,Baxter,Model-854Lf,SN-040047,CT,2019-10-22,2029-06-03,Active
+ECG Monitor,Stryker,Model-852Vm,SN-712145,ULTRASOUND,2020-06-24,2025-08-10,Active
+Infusion Pump,Olympus,Model-453zM,SN-119302,CT-ICU,2021-03-12,2027-08-15,Retired
+Ventilator,Fresenius,Model-868NZ,SN-610184,Physiotherapy Room,2015-09-09,2027-01-23,In Repair
+Heart Lung Machine,Fresenius,Model-728to,SN-471431,GENERAL WARD,2019-04-17,2027-08-10,In Repair
+Heart Lung Machine,Baxter,Model-037au,SN-906629,Emergency Department,2023-01-13,2025-09-02,In Repair
+Dialysis Machine,Fresenius,Model-669bg,SN-478161,CT,2021-04-23,2028-07-12,In Repair
+MRI Machine,Baxter,Model-617Ni,SN-406429,Doctors Cabin,2017-06-04,2029-01-22,In Repair
+OT Table,Dräger,Model-972vn,SN-884879,ICU,2019-10-06,2024-09-01,Retired
+CT Scanner,Canon Medical,Model-218hm,SN-779174,CT,2022-12-09,2027-08-11,Active
+Heart Lung Machine,Canon Medical,Model-566oA,SN-610172,ULTRASOUND,2019-05-22,2029-01-05,Active
+ECMO Machine,Hitachi Medical,Model-797ny,SN-824705,ICU,2017-08-03,2028-06-22,Retired
+Endoscope,Siemens Healthineers,Model-644mA,SN-235843,CT,2024-03-06,2027-07-21,Active
+X-Ray Machine,Dräger,Model-639SM,SN-009344,ULTRASOUND,2019-12-04,2026-02-08,In Repair
+Patient Monitor,Stryker,Model-994BH,SN-807710,MRI,2022-06-13,2026-07-12,In Repair
+Anesthesia Machine,GE Healthcare,Model-357cD,SN-664178,ULTRASOUND,2015-11-09,2027-07-16,Active
+Sterilizer,Medtronic,Model-189Tl,SN-593028,Emergency Department,2023-03-05,2025-10-16,In Repair
+ECMO Machine,Baxter,Model-910ah,SN-133706,MRI,2015-09-09,2027-02-04,Retired
+Heart Lung Machine,Fresenius,Model-609WP,SN-178056,Emergency Department,2017-02-20,2027-02-18,Active
+Crash Cart,Medtronic,Model-570oX,SN-962382,CT-ICU,2018-09-10,2028-04-17,In Repair
+Infusion Pump,Medtronic,Model-459Uu,SN-370902,CATH LAB,2018-10-24,2027-07-23,Retired
+Crash Cart,Hitachi Medical,Model-255JD,SN-889458,Physiotherapy Room,2020-03-26,2027-03-30,Retired
+ECG Monitor,Baxter,Model-000Lw,SN-149647,ULTRASOUND,2019-10-18,2028-06-12,Retired
+X-Ray Machine,Philips,Model-805vf,SN-909167,ECG Room,2022-06-30,2029-11-23,Active
+X-Ray Machine,Dräger,Model-464IP,SN-665891,OT,2022-01-20,2024-08-15,Retired
+ECMO Machine,Fresenius,Model-965Hn,SN-464313,MRI,2020-04-19,2025-10-09,Retired
+PET Scanner,Hitachi Medical,Model-004xW,SN-695638,CT,2022-07-09,2028-12-01,Active
+CT Scanner,Baxter,Model-900IH,SN-788031,Emergency Department,2020-01-26,2024-10-05,Retired
+Ultrasound Machine,Stryker,Model-640eR,SN-131685,Emergency Department,2017-03-28,2029-04-16,Active
+Heart Lung Machine,Canon Medical,Model-365yh,SN-312778,Physiotherapy Room,2017-11-28,2024-10-11,In Repair
+Incubator,Olympus,Model-882zN,SN-098514,ICU,2019-08-28,2029-07-12,In Repair
+CT Scanner,Mindray,Model-210ju,SN-061744,PET,2021-09-13,2026-09-01,Active
+Incubator,Olympus,Model-958PG,SN-547777,ULTRASOUND,2020-07-30,2029-05-13,Active
+Haemothermy,Philips,Model-571rY,SN-519665,Physiotherapy Room,2022-09-07,2029-03-13,Active
+Dialysis Machine,Canon Medical,Model-835UF,SN-308900,Emergency Department,2016-01-31,2024-07-11,In Repair
+BP Machines,Canon Medical,Model-615Ni,SN-439631,CT-ICU,2019-05-05,2027-11-14,Active
+Ultrasound Machine,Canon Medical,Model-971VF,SN-774571,OT,2020-07-07,2027-04-02,Active
+Incubator,Stryker,Model-556UW,SN-818532,Doctors Cabin,2020-11-02,2026-11-27,In Repair
+Suction Pump,Fresenius,Model-516dh,SN-732598,CT,2016-01-21,2029-04-25,Active
+C-Arm,Canon Medical,Model-255Vl,SN-333568,OT,2020-11-12,2025-08-16,Active
+Dialysis Machine,Siemens Healthineers,Model-046pl,SN-152601,GENERAL WARD,2021-11-30,2029-01-04,In Repair
+BP Machines,Mindray,Model-484bo,SN-233071,MRI,2016-04-02,2024-06-22,In Repair
+Ultrasound Machine,Dräger,Model-794RM,SN-391165,GENERAL WARD,2024-01-17,2027-11-04,Retired
+Surgical Light,Fresenius,Model-175Hv,SN-663557,MRI,2017-01-26,2024-12-19,Active
+CT Scanner,Fresenius,Model-040Jo,SN-422011,MRI,2020-06-03,2025-03-29,Active
+MRI Machine,Fresenius,Model-826mH,SN-889105,Emergency Department,2016-03-20,2026-02-17,Active
+Defibrillator,Olympus,Model-486sn,SN-546324,CT,2022-07-16,2024-11-15,In Repair
+Patient Monitor,Fresenius,Model-272yM,SN-451118,CT-ICU,2021-12-06,2029-11-03,Retired
+BP Machines,Dräger,Model-863Jm,SN-486332,OT,2019-11-30,2024-05-16,Active
+Endoscope,GE Healthcare,Model-873yu,SN-752492,ECG Room,2015-10-19,2025-06-03,In Repair
+Patient Monitor,Philips,Model-176ll,SN-434995,CT,2020-02-15,2024-09-20,Retired
+Patient Monitor,Baxter,Model-164Sp,SN-112053,PET,2016-06-10,2025-11-27,In Repair
+Crash Cart,Philips,Model-469mE,SN-564249,OT,2022-10-20,2028-11-04,Active
+Patient Monitor,Mindray,Model-556yA,SN-249969,CT-ICU,2019-05-22,2028-12-26,In Repair
+X-Ray Machine,Medtronic,Model-671AI,SN-571330,Physiotherapy Room,2019-12-24,2028-08-09,Retired
+Infusion Pump,Siemens Healthineers,Model-342Rm,SN-484301,GENERAL WARD,2022-05-29,2028-01-16,Retired
+Ultrasound Machine,Siemens Healthineers,Model-408as,SN-614465,PET,2022-03-04,2028-10-22,In Repair
+PET Scanner,Dräger,Model-607qc,SN-094872,CT-ICU,2016-10-27,2026-04-04,Active
+C-Arm,Olympus,Model-157Gi,SN-843607,ULTRASOUND,2016-01-30,2029-11-09,Active
+Dialysis Machine,Siemens Healthineers,Model-723Wu,SN-678262,ULTRASOUND,2018-02-13,2026-12-14,Retired
+Defibrillator,Medtronic,Model-713lI,SN-817905,ICU,2020-10-10,2030-04-25,In Repair
+Ventilator,Siemens Healthineers,Model-922tt,SN-282070,Physiotherapy Room,2020-11-29,2029-02-03,In Repair
+Heart Lung Machine,Olympus,Model-550CQ,SN-337126,CT-ICU,2017-05-07,2024-08-17,Active
+BP Machines,Mindray,Model-320kX,SN-848866,CT-ICU,2020-02-22,2028-12-30,In Repair
+Haemothermy,Philips,Model-617rA,SN-679678,ULTRASOUND,2015-10-24,2025-04-25,Retired
+OT Table,Dräger,Model-827EE,SN-117387,Doctors Cabin,2019-07-14,2024-07-03,Retired
+Ultrasound Machine,Baxter,Model-213SW,SN-329972,PET,2024-02-13,2029-04-11,Active
+CT Scanner,Philips,Model-418he,SN-101642,MRI,2021-09-23,2029-11-18,Active
+Suction Pump,Mindray,Model-384GR,SN-664095,CATH LAB,2015-07-14,2025-06-02,Retired
+MRI Machine,Dräger,Model-313ND,SN-903233,CATH LAB,2016-08-26,2029-01-17,Retired
+Crash Cart,Siemens Healthineers,Model-328bJ,SN-852236,PET,2018-01-19,2026-06-01,Retired
+Endoscope,Olympus,Model-822nd,SN-905228,MRI,2023-11-02,2028-03-27,Retired
+Heart Lung Machine,Medtronic,Model-219Nt,SN-480834,GENERAL WARD,2021-09-20,2025-06-07,Retired
+Infusion Pump,Hitachi Medical,Model-028Ta,SN-684342,ECG Room,2024-04-03,2025-01-21,Retired
+Endoscope,Baxter,Model-158HO,SN-563183,Doctors Cabin,2017-09-15,2029-02-10,Retired
+Haemothermy,Canon Medical,Model-800Iz,SN-532923,Emergency Department,2016-12-30,2024-07-25,In Repair
+Ventilator,Hitachi Medical,Model-479Sd,SN-210715,ULTRASOUND,2021-06-01,2029-09-15,Active
+ECG Monitor,Canon Medical,Model-879Oy,SN-085544,CT,2018-07-15,2025-12-15,In Repair
+ECG Monitor,Baxter,Model-713aq,SN-898850,Doctors Cabin,2017-04-27,2026-03-06,Active
+Heart Lung Machine,Dräger,Model-843tE,SN-991929,Physiotherapy Room,2022-03-14,2025-01-07,Retired
+CT Scanner,Canon Medical,Model-774rg,SN-386966,ICU,2019-09-07,2029-11-15,Retired
+Ultrasound Machine,Siemens Healthineers,Model-512ys,SN-629703,Doctors Cabin,2018-11-05,2027-01-08,Retired
+Heart Lung Machine,Mindray,Model-696xX,SN-676126,ULTRASOUND,2019-01-14,2028-04-18,Retired
+BP Machines,Medtronic,Model-930CF,SN-007069,GENERAL WARD,2016-08-17,2027-06-11,Retired
+Suction Pump,Siemens Healthineers,Model-060Ea,SN-230903,OT,2023-09-22,2025-03-30,Active
+Crash Cart,Siemens Healthineers,Model-038NC,SN-104116,CT,2016-07-01,2030-02-20,Retired
+Ultrasound Machine,Medtronic,Model-387uy,SN-905248,ECG Room,2015-12-06,2029-06-04,Retired
+Crash Cart,Fresenius,Model-440Bw,SN-165887,GENERAL WARD,2020-10-08,2029-05-25,Active
+ECG Monitor,Stryker,Model-631Ha,SN-882190,Emergency Department,2019-04-21,2029-09-06,Active
+Sterilizer,Stryker,Model-982Rx,SN-544759,Doctors Cabin,2022-01-18,2028-10-22,Retired
+CT Scanner,Stryker,Model-692Ex,SN-001650,CATH LAB,2015-09-12,2030-01-07,Retired
+Ventilator,Hitachi Medical,Model-736AS,SN-658101,Doctors Cabin,2016-12-29,2025-12-16,Active
+Heart Lung Machine,Dräger,Model-808Ka,SN-595493,Emergency Department,2016-07-20,2030-01-30,Active
+Infusion Pump,Fresenius,Model-218ep,SN-326681,ULTRASOUND,2024-02-02,2025-09-03,Active

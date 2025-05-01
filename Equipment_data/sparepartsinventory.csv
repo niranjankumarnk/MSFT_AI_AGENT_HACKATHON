@@ -1,0 +1,351 @@
+EquipmentType,PartName,QuantityAvailable,LastReplenishedDate,SupplierInformation
+ECG Monitor,Fan,43,2024-05-29,Gray-Holden
+Endoscope,Battery,14,2025-03-15,Poole-Shepherd
+Defibrillator,Sensor,6,2025-04-10,Harmon Inc
+X-Ray Machine,Sensor,42,2025-01-25,"Miller, Randolph and Benitez"
+Anesthesia Machine,Power Supply,22,2024-07-27,Carter and Sons
+Patient Monitor,Circuit Board,39,2025-03-05,"Sanders, Gonzalez and Henry"
+Surgical Light,Display Panel,18,2024-07-08,Jones Group
+Anesthesia Machine,Circuit Board,7,2024-05-01,Smith and Sons
+Ultrasound Machine,Compressor,5,2025-01-25,Thomas-Wood
+Haemothermy,Circuit Board,3,2025-01-31,Hunt Inc
+Endoscope,Sensor,16,2024-11-21,Jones and Sons
+Dialysis Machine,Display Panel,40,2024-10-17,"Wallace, Flores and Cox"
+MRI Machine,Sensor,28,2025-02-06,Nguyen Group
+CT Scanner,Compressor,1,2024-09-18,Martinez-Smith
+BP Machines,Circuit Board,45,2024-07-01,"Freeman, Moore and Bailey"
+X-Ray Machine,Power Supply,11,2024-09-07,"Hopkins, Proctor and Jefferson"
+CT Scanner,Display Panel,24,2024-12-15,Gardner-Fleming
+Defibrillator,Compressor,40,2024-07-29,"Hansen, Washington and Shepherd"
+ECG Monitor,Battery,14,2024-11-25,Brown-Gonzalez
+Dialysis Machine,Compressor,1,2024-06-22,Wells-Potts
+ECMO Machine,Fan,28,2024-12-31,Gutierrez Ltd
+MRI Machine,Compressor,1,2024-08-21,White Inc
+Ventilator,Circuit Board,13,2024-05-22,Cruz-Rios
+Incubator,Circuit Board,41,2024-12-06,"Shea, Young and Aguilar"
+BP Machines,Display Panel,13,2024-05-19,Perez Group
+Surgical Light,Circuit Board,32,2025-04-01,"Moore, Hill and Watson"
+Ventilator,Power Supply,44,2025-03-04,"Allen, Mooney and Norris"
+Dialysis Machine,Fan,2,2024-06-12,Wright LLC
+C-Arm,Power Supply,43,2025-01-15,Barker-Sanchez
+MRI Machine,Battery,41,2024-10-18,Bernard-Bush
+ECG Monitor,Sensor,33,2024-09-08,Matthews Group
+Defibrillator,Battery,9,2025-03-15,Wilson-White
+Defibrillator,Sensor,35,2025-02-11,"Murphy, Shah and Holt"
+Anesthesia Machine,Power Supply,9,2024-10-12,"Choi, Henry and Kerr"
+BP Machines,Compressor,10,2024-09-19,"Meza, Cole and Curtis"
+Defibrillator,Power Supply,48,2024-07-29,Miller-Hanson
+ECMO Machine,Battery,11,2024-11-10,Everett-Fleming
+Haemothermy,Battery,4,2024-08-29,"Mcguire, Davis and Lewis"
+MRI Machine,Sensor,29,2024-06-06,Rogers-Johnston
+Heart Lung Machine,Battery,32,2025-04-21,"Underwood, Keith and Boyd"
+Anesthesia Machine,Display Panel,14,2024-12-15,Larsen Group
+Heart Lung Machine,Compressor,21,2025-02-02,Scott and Sons
+ECG Monitor,Power Supply,33,2024-06-12,Hughes-Gonzales
+BP Machines,Display Panel,50,2024-08-19,Moreno LLC
+PET Scanner,Fan,35,2024-05-09,"Scott, Norman and Jenkins"
+Surgical Light,Fan,45,2024-09-27,"Walker, Landry and Whitney"
+Anesthesia Machine,Display Panel,18,2024-06-16,Tucker Inc
+Heart Lung Machine,Circuit Board,23,2025-02-09,Murphy-Ford
+Haemothermy,Fan,45,2024-05-22,"Rubio, Aguilar and Moore"
+Endoscope,Fan,45,2024-08-30,Houston-Johnson
+Crash Cart,Battery,13,2024-09-20,Mason-Barry
+Anesthesia Machine,Power Supply,40,2024-12-25,Humphrey Inc
+C-Arm,Display Panel,1,2025-01-24,Blanchard-Robbins
+X-Ray Machine,Circuit Board,24,2025-02-16,"Miller, Smith and Foster"
+BP Machines,Fan,8,2024-12-14,Shaffer-Maddox
+PET Scanner,Compressor,3,2024-09-20,Smith-Stanley
+OT Table,Power Supply,34,2025-04-04,Williams-Murphy
+BP Machines,Compressor,5,2025-01-08,Glenn-Anthony
+Anesthesia Machine,Fan,43,2024-11-16,"Mueller, Fox and White"
+BP Machines,Circuit Board,19,2025-01-18,"Brooks, Beck and Buck"
+Patient Monitor,Sensor,36,2024-10-21,Wade and Sons
+Haemothermy,Power Supply,14,2025-02-08,Manning LLC
+Sterilizer,Circuit Board,29,2024-07-27,Williams-Owens
+OT Table,Sensor,16,2025-01-30,"Robinson, Garcia and Wheeler"
+MRI Machine,Power Supply,3,2025-04-27,Cooper-Mcdonald
+Suction Pump,Compressor,33,2024-06-23,Lawrence Group
+Infusion Pump,Compressor,47,2024-10-17,Thomas-Hurley
+Defibrillator,Display Panel,19,2024-10-31,Stevens Inc
+Heart Lung Machine,Compressor,18,2024-06-22,"Tate, Hill and Moss"
+Incubator,Display Panel,21,2025-04-24,Schmidt-Anderson
+Dialysis Machine,Fan,17,2024-08-28,Burns-Blevins
+ECG Monitor,Circuit Board,40,2025-03-16,"Gonzalez, Kelly and Gonzalez"
+Suction Pump,Compressor,15,2024-06-01,Summers Ltd
+Incubator,Sensor,25,2024-12-04,"Hamilton, Hall and Adams"
+MRI Machine,Fan,13,2024-07-25,Bass Inc
+Surgical Light,Compressor,20,2024-11-08,"Williams, Morgan and Riley"
+Haemothermy,Circuit Board,41,2024-08-20,Meyer and Sons
+Infusion Pump,Fan,16,2025-01-06,Franklin Inc
+Anesthesia Machine,Circuit Board,8,2024-09-08,Crane and Sons
+ECMO Machine,Circuit Board,40,2025-04-18,Martin Inc
+Haemothermy,Fan,13,2024-06-08,Williams Inc
+Heart Lung Machine,Circuit Board,25,2024-09-27,Barrett-Smith
+Suction Pump,Compressor,42,2024-10-02,Baxter-White
+Heart Lung Machine,Battery,26,2024-11-05,Freeman Ltd
+Ultrasound Machine,Compressor,32,2025-01-12,Newton and Sons
+OT Table,Display Panel,39,2024-12-06,Flores PLC
+Anesthesia Machine,Fan,36,2025-04-02,Knight-Smith
+ECMO Machine,Display Panel,24,2024-10-15,Harvey Group
+Incubator,Sensor,22,2024-12-17,Thompson-Taylor
+Suction Pump,Sensor,14,2024-06-23,"Black, Garcia and Quinn"
+Surgical Light,Fan,37,2024-11-04,Larson and Sons
+ECMO Machine,Display Panel,11,2025-04-20,"Wang, Reynolds and Gomez"
+Anesthesia Machine,Circuit Board,31,2024-10-13,"Fuller, Pollard and Hansen"
+BP Machines,Display Panel,4,2024-06-21,Hooper LLC
+Anesthesia Machine,Circuit Board,35,2025-02-16,Lowe-Kennedy
+PET Scanner,Power Supply,26,2024-10-13,Giles and Sons
+Crash Cart,Power Supply,11,2024-11-06,Robinson LLC
+Endoscope,Display Panel,33,2024-07-02,Jackson Inc
+Defibrillator,Circuit Board,18,2025-03-11,"Fernandez, Joseph and Hicks"
+X-Ray Machine,Battery,2,2025-01-26,Rivera-Davis
+Ultrasound Machine,Battery,25,2024-12-15,Roberts-Lewis
+OT Table,Fan,24,2024-06-12,"Baker, Cline and Stevens"
+BP Machines,Battery,3,2024-10-29,"Hanna, Gray and Riley"
+Defibrillator,Fan,6,2024-11-04,Gutierrez-May
+Dialysis Machine,Sensor,44,2024-09-09,Hull and Sons
+C-Arm,Sensor,25,2025-03-04,Hill Ltd
+Haemothermy,Battery,19,2025-04-15,Rodriguez LLC
+CT Scanner,Compressor,46,2025-04-14,Pennington-Carter
+PET Scanner,Fan,38,2024-07-01,Fuentes LLC
+Endoscope,Circuit Board,10,2024-05-02,Taylor Group
+Dialysis Machine,Power Supply,30,2024-11-23,"Hogan, Werner and Yates"
+Infusion Pump,Sensor,11,2025-01-10,"Cordova, Kent and Rivera"
+Suction Pump,Sensor,48,2025-02-23,"Young, Jimenez and Little"
+Anesthesia Machine,Power Supply,17,2025-03-27,Parker-Williamson
+CT Scanner,Power Supply,44,2025-04-05,Doyle Inc
+Patient Monitor,Circuit Board,16,2024-07-15,Thompson LLC
+CT Scanner,Circuit Board,30,2024-09-18,Ortiz-Ruiz
+OT Table,Compressor,49,2025-04-13,"Baird, Grant and Smith"
+Crash Cart,Display Panel,16,2024-09-20,"Turner, Mcconnell and Miller"
+Haemothermy,Display Panel,11,2025-04-21,"Cook, Hutchinson and Hammond"
+ECG Monitor,Circuit Board,40,2024-12-23,Young Inc
+Ventilator,Power Supply,29,2024-05-22,Jackson-Braun
+C-Arm,Fan,12,2024-05-01,"Allen, Pierce and Wolfe"
+Sterilizer,Circuit Board,23,2025-04-09,Allen Ltd
+Suction Pump,Fan,24,2024-12-28,"Perkins, Crosby and Graham"
+Dialysis Machine,Battery,43,2024-10-10,Townsend-Myers
+X-Ray Machine,Power Supply,41,2025-01-01,Powell-Sosa
+Endoscope,Circuit Board,34,2024-06-18,Spencer-Lucas
+X-Ray Machine,Battery,24,2024-06-20,Stokes and Sons
+Ventilator,Fan,7,2025-04-09,"Raymond, Blankenship and Stanley"
+Infusion Pump,Fan,2,2025-01-06,Meyers-Booth
+CT Scanner,Fan,40,2024-11-01,"Morris, Walker and Wolfe"
+X-Ray Machine,Circuit Board,47,2024-08-29,Henry-Elliott
+ECMO Machine,Power Supply,37,2024-09-11,"Anderson, Oliver and Klein"
+Haemothermy,Circuit Board,7,2025-02-04,Allison-Cruz
+Dialysis Machine,Power Supply,24,2025-01-29,Rich-Keller
+Ultrasound Machine,Display Panel,41,2024-09-30,"Lucas, Woodward and Hall"
+Suction Pump,Sensor,24,2025-04-26,Davis-Thomas
+CT Scanner,Fan,39,2025-02-06,"Wang, Williams and Pitts"
+Anesthesia Machine,Display Panel,12,2024-09-27,Davis PLC
+Endoscope,Fan,4,2025-01-03,Sanchez-Gates
+C-Arm,Power Supply,13,2024-09-09,Hernandez Inc
+Sterilizer,Compressor,18,2024-08-08,Lopez Inc
+Surgical Light,Circuit Board,44,2025-01-01,Lopez-Hernandez
+Surgical Light,Sensor,6,2024-07-05,"Jackson, Adams and Wright"
+Ventilator,Power Supply,4,2024-08-06,Kemp LLC
+PET Scanner,Display Panel,46,2024-07-25,Nelson-Griffin
+PET Scanner,Battery,41,2024-10-24,"Kelly, Benson and Collins"
+Ventilator,Sensor,44,2025-02-17,Gilmore and Sons
+Ultrasound Machine,Compressor,49,2025-04-29,Calderon-Bowman
+MRI Machine,Fan,47,2025-02-18,Malone Ltd
+Heart Lung Machine,Power Supply,19,2024-05-12,"Lopez, Boyd and Garcia"
+Crash Cart,Fan,40,2024-10-14,Hart and Sons
+PET Scanner,Display Panel,18,2024-12-19,Ray Ltd
+Haemothermy,Sensor,16,2024-09-04,Russell-Brown
+Haemothermy,Compressor,30,2024-07-24,Flores Group
+Dialysis Machine,Compressor,40,2024-09-27,"Johnson, Ferguson and Sanchez"
+Defibrillator,Compressor,35,2025-04-01,Stanley-Garcia
+MRI Machine,Sensor,48,2024-12-31,Boyer-Wright
+BP Machines,Fan,9,2025-01-12,"Smith, Cross and Rodriguez"
+Patient Monitor,Power Supply,16,2024-06-12,Watson Ltd
+Sterilizer,Fan,27,2024-10-19,"Brown, Bauer and King"
+Suction Pump,Compressor,38,2025-04-27,Hernandez-Reynolds
+Haemothermy,Circuit Board,49,2024-09-01,Murphy-Molina
+BP Machines,Power Supply,2,2025-01-09,Sullivan-Hughes
+ECMO Machine,Display Panel,41,2025-04-13,Martin LLC
+Anesthesia Machine,Compressor,10,2025-04-19,"Brady, Haney and Smith"
+PET Scanner,Compressor,38,2024-06-13,Ramirez-Dyer
+ECMO Machine,Fan,23,2025-02-19,Lara-Brown
+Dialysis Machine,Battery,26,2024-12-03,Giles Inc
+Suction Pump,Battery,28,2024-07-05,Jackson-Fisher
+PET Scanner,Circuit Board,50,2024-10-01,"Atkinson, Washington and Snyder"
+CT Scanner,Power Supply,1,2024-12-12,"Gregory, Hernandez and Woodward"
+Infusion Pump,Sensor,32,2024-11-18,Nelson-Mclean
+Surgical Light,Sensor,35,2025-02-04,Alvarez and Sons
+CT Scanner,Battery,28,2024-05-12,"Garza, Warner and Mckenzie"
+Incubator,Battery,10,2024-10-07,"Castro, Mason and Miller"
+OT Table,Sensor,32,2024-10-25,Montgomery-Hurst
+Crash Cart,Display Panel,8,2025-03-08,Jordan-Roman
+Defibrillator,Fan,25,2025-03-15,Cuevas Inc
+Anesthesia Machine,Display Panel,14,2025-02-12,Moore-Byrd
+ECMO Machine,Compressor,34,2024-10-05,"Goodman, Diaz and Woodard"
+OT Table,Circuit Board,28,2024-10-23,Jones-Marquez
+Suction Pump,Circuit Board,43,2024-12-14,"Wilson, Hawkins and Kerr"
+Ventilator,Compressor,4,2025-01-31,Smith PLC
+Incubator,Battery,39,2024-12-18,Hayes-Williams
+Defibrillator,Sensor,10,2024-10-23,Pittman LLC
+Endoscope,Power Supply,34,2024-07-18,Ibarra-Blake
+Dialysis Machine,Compressor,1,2024-08-22,Chang-Blackburn
+ECMO Machine,Power Supply,26,2024-05-28,Johnson PLC
+ECMO Machine,Power Supply,8,2024-05-08,Ward Group
+Crash Cart,Display Panel,47,2025-02-02,Brown-Mendoza
+Crash Cart,Sensor,41,2025-03-18,Hughes-Perez
+CT Scanner,Power Supply,2,2025-03-28,"Scott, Henson and Gonzalez"
+Dialysis Machine,Display Panel,13,2024-08-14,Herrera Group
+X-Ray Machine,Circuit Board,47,2025-02-02,"Rodriguez, Chase and Anderson"
+OT Table,Circuit Board,6,2024-12-21,Taylor PLC
+Endoscope,Circuit Board,3,2024-06-23,"Rasmussen, Hernandez and Flores"
+PET Scanner,Display Panel,8,2024-09-07,"Mcguire, Reynolds and Howell"
+Infusion Pump,Circuit Board,30,2024-06-27,Miller Ltd
+Endoscope,Sensor,8,2025-02-06,Perez PLC
+Ventilator,Circuit Board,17,2024-12-31,"Murray, Blankenship and White"
+ECMO Machine,Compressor,16,2024-12-06,Chambers-Rivas
+Infusion Pump,Compressor,8,2025-04-11,Merritt-Hurst
+X-Ray Machine,Circuit Board,39,2024-06-24,Pierce-Hill
+Infusion Pump,Compressor,27,2024-11-18,White LLC
+Dialysis Machine,Compressor,22,2025-01-16,Houston Group
+BP Machines,Compressor,17,2024-06-18,"Carlson, Duncan and Davis"
+Suction Pump,Fan,32,2025-03-11,Smith Inc
+Infusion Pump,Display Panel,49,2024-05-27,"Smith, Tucker and Brady"
+C-Arm,Sensor,36,2024-06-27,Caldwell PLC
+Crash Cart,Circuit Board,23,2024-08-12,Hudson and Sons
+ECMO Machine,Display Panel,36,2024-06-13,Tucker and Sons
+C-Arm,Circuit Board,47,2024-11-30,"Poole, Sutton and Brooks"
+CT Scanner,Sensor,4,2024-09-01,"Kane, Mejia and Williams"
+Sterilizer,Power Supply,27,2024-10-23,Bowman-Wagner
+Endoscope,Fan,32,2024-10-03,Russo and Sons
+Endoscope,Battery,25,2024-06-01,Pierce-Davis
+Dialysis Machine,Power Supply,48,2025-04-13,Evans PLC
+CT Scanner,Compressor,31,2025-02-13,Bradshaw LLC
+Crash Cart,Fan,15,2025-02-03,"Potts, Rollins and Shaw"
+Defibrillator,Circuit Board,32,2024-10-30,"Myers, Roberts and Wheeler"
+MRI Machine,Fan,17,2024-07-25,Powell Ltd
+Surgical Light,Fan,36,2024-09-02,Reyes Ltd
+MRI Machine,Display Panel,40,2025-01-01,Adams-Myers
+CT Scanner,Compressor,47,2024-06-13,Jackson-Eaton
+ECMO Machine,Fan,10,2024-05-19,"Cervantes, Howell and Arnold"
+Suction Pump,Power Supply,28,2025-02-21,Simpson LLC
+Dialysis Machine,Power Supply,21,2024-05-25,Ferrell Group
+Defibrillator,Battery,28,2025-03-27,Lynch and Sons
+Defibrillator,Circuit Board,26,2025-01-18,"Walker, Murphy and Newman"
+Incubator,Sensor,7,2024-06-08,Young Ltd
+Haemothermy,Battery,34,2024-12-31,Doyle-Jordan
+Endoscope,Compressor,40,2024-05-17,Kennedy Ltd
+X-Ray Machine,Fan,19,2024-06-20,Jones Inc
+Heart Lung Machine,Display Panel,15,2025-02-09,Rollins-Bautista
+Incubator,Circuit Board,13,2025-04-07,Adkins-Willis
+C-Arm,Fan,26,2024-09-10,Stewart PLC
+Ventilator,Compressor,34,2024-05-09,"Gomez, Cantu and Lang"
+Defibrillator,Circuit Board,23,2024-04-29,Schneider and Sons
+Ultrasound Machine,Circuit Board,11,2025-03-27,Duffy-Cummings
+Ventilator,Fan,36,2024-12-19,Mitchell Inc
+Crash Cart,Battery,23,2024-04-29,Ramirez PLC
+BP Machines,Sensor,31,2024-10-05,Stokes-Moreno
+Incubator,Circuit Board,46,2025-01-25,Alexander PLC
+Patient Monitor,Power Supply,45,2024-10-10,"Rodriguez, Ayers and Cannon"
+Patient Monitor,Battery,3,2024-10-17,"Smith, Hampton and Klein"
+CT Scanner,Circuit Board,40,2024-07-23,Chavez Ltd
+Suction Pump,Circuit Board,3,2024-08-26,Moore Group
+C-Arm,Power Supply,45,2024-05-20,"Barnes, Mcgee and Delacruz"
+Endoscope,Power Supply,50,2024-11-29,"Pope, Herrera and Branch"
+Heart Lung Machine,Circuit Board,12,2024-06-01,"Rios, Rowe and Nixon"
+Dialysis Machine,Circuit Board,7,2025-02-26,Johnson-Barrera
+OT Table,Circuit Board,44,2025-04-25,Hammond and Sons
+Endoscope,Circuit Board,33,2025-04-24,"Perez, Henderson and Smith"
+Sterilizer,Battery,26,2024-09-10,Smith LLC
+Heart Lung Machine,Circuit Board,39,2025-02-13,"Palmer, Harris and Jones"
+CT Scanner,Fan,41,2024-10-18,"Barnett, Smith and Miller"
+Dialysis Machine,Fan,8,2024-12-01,Hansen-Tanner
+Patient Monitor,Display Panel,2,2024-12-29,Smith and Sons
+Defibrillator,Sensor,36,2025-02-28,"Roberts, Snyder and Maldonado"
+Anesthesia Machine,Display Panel,7,2024-12-22,Gentry-Hull
+C-Arm,Battery,36,2024-10-21,Larson LLC
+Dialysis Machine,Display Panel,1,2024-07-14,Rhodes Ltd
+CT Scanner,Display Panel,31,2025-01-16,"Soto, Taylor and Richards"
+PET Scanner,Sensor,18,2025-02-04,Gardner-Floyd
+Surgical Light,Fan,41,2024-09-24,Jones-Wu
+ECG Monitor,Power Supply,26,2025-01-27,Johnson-Beard
+ECMO Machine,Compressor,36,2024-09-22,"Gibson, Walters and Lara"
+MRI Machine,Battery,31,2025-02-06,Mathews Ltd
+Dialysis Machine,Compressor,17,2025-03-19,Barnes-Hernandez
+Crash Cart,Battery,13,2024-04-30,Peck-Sexton
+Heart Lung Machine,Battery,8,2024-11-04,"Brown, Garrison and Cline"
+Haemothermy,Display Panel,5,2024-10-20,Mayo Inc
+Crash Cart,Sensor,45,2024-05-14,Carpenter LLC
+Ventilator,Circuit Board,37,2024-04-29,Salazar PLC
+Ultrasound Machine,Power Supply,28,2025-01-16,Spencer Group
+Incubator,Sensor,10,2024-10-16,"Ellis, Villegas and Williamson"
+BP Machines,Circuit Board,10,2025-01-16,Johnson-Rice
+Surgical Light,Sensor,37,2025-03-14,Powell PLC
+OT Table,Fan,45,2024-09-30,Levy LLC
+Defibrillator,Compressor,16,2024-07-30,"Lyons, Terry and Phillips"
+Anesthesia Machine,Circuit Board,30,2025-03-24,"Spears, Berger and Howe"
+CT Scanner,Battery,23,2024-09-06,"Rodgers, Castro and Alvarez"
+Incubator,Battery,23,2024-06-06,"Hunt, Schwartz and Munoz"
+Suction Pump,Display Panel,45,2024-08-18,"Huerta, Diaz and Rodriguez"
+Crash Cart,Sensor,41,2024-12-13,"Wagner, Tran and Myers"
+Surgical Light,Power Supply,18,2024-07-25,"Lowery, Lin and Riggs"
+Endoscope,Compressor,25,2025-02-20,Hanson-Foster
+ECG Monitor,Battery,35,2024-11-19,"Burke, Perkins and Jackson"
+Incubator,Power Supply,16,2025-03-24,"Johnson, Young and Hughes"
+Ultrasound Machine,Fan,14,2024-10-07,White-Powell
+Incubator,Sensor,9,2024-10-03,"Norton, Cross and Chambers"
+ECMO Machine,Circuit Board,31,2024-10-24,"Ross, Francis and Barnes"
+Crash Cart,Fan,25,2024-06-13,Burgess-Riley
+MRI Machine,Compressor,27,2024-08-08,James-Robinson
+Incubator,Display Panel,32,2024-08-10,Coffey PLC
+MRI Machine,Sensor,22,2025-01-02,Clarke LLC
+CT Scanner,Battery,36,2024-05-22,Ayers Ltd
+Dialysis Machine,Power Supply,20,2025-04-05,Ramos-Franklin
+Infusion Pump,Fan,9,2024-09-24,Clark PLC
+OT Table,Power Supply,12,2025-01-15,Jones and Sons
+X-Ray Machine,Power Supply,20,2024-10-05,Ramirez Group
+Defibrillator,Power Supply,17,2024-12-31,Carr and Sons
+Haemothermy,Sensor,15,2025-04-21,Hansen Inc
+ECMO Machine,Display Panel,23,2024-11-22,Ellis Group
+Haemothermy,Fan,26,2024-05-23,Mack and Sons
+Ventilator,Sensor,25,2024-07-29,"Jenkins, Smith and Rios"
+BP Machines,Fan,6,2024-10-26,Ramos-Rivers
+C-Arm,Sensor,45,2025-01-16,Mann-Johnson
+MRI Machine,Fan,28,2024-11-11,"Werner, Norton and Miller"
+ECG Monitor,Circuit Board,46,2024-07-05,"Davis, Sawyer and Green"
+PET Scanner,Circuit Board,42,2024-07-17,"Floyd, Reese and Mcneil"
+Dialysis Machine,Circuit Board,1,2024-09-27,"Adams, Butler and Watson"
+OT Table,Fan,29,2024-11-04,"White, Ray and Serrano"
+Crash Cart,Circuit Board,10,2024-12-01,Harris-Fleming
+Heart Lung Machine,Sensor,28,2025-01-17,Adams-Owens
+Surgical Light,Display Panel,24,2025-03-19,Alvarez and Sons
+CT Scanner,Fan,20,2025-02-27,"Espinoza, Woodard and Johnson"
+OT Table,Sensor,31,2025-04-24,Spencer-Ramsey
+Infusion Pump,Fan,24,2024-06-15,Stewart-Brown
+Dialysis Machine,Power Supply,19,2024-10-23,"Byrd, Peterson and Ross"
+Ventilator,Display Panel,31,2025-01-22,"Torres, Soto and Wagner"
+Ventilator,Battery,19,2025-01-28,Collins Inc
+Dialysis Machine,Power Supply,18,2025-02-21,White-Jones
+Haemothermy,Display Panel,50,2025-01-21,Dyer-Larson
+Patient Monitor,Battery,3,2024-07-28,"Morales, Guerra and Campbell"
+Patient Monitor,Display Panel,33,2024-06-24,Mcmahon Ltd
+Anesthesia Machine,Power Supply,32,2025-01-21,"Kirk, Mason and Wilson"
+C-Arm,Fan,41,2024-09-19,Hays-Barker
+Surgical Light,Sensor,3,2024-10-30,Rodriguez-Miller
+Patient Monitor,Display Panel,22,2025-02-03,"Ho, Smith and Fuentes"
+Surgical Light,Power Supply,36,2025-03-17,Cruz-Park
+Defibrillator,Fan,11,2024-10-25,Pearson Ltd
+MRI Machine,Fan,33,2025-03-17,Hays-Gregory
+C-Arm,Compressor,43,2024-08-27,Hart-Holmes
+Surgical Light,Compressor,31,2024-07-02,"Kelly, Lee and Wade"
+C-Arm,Power Supply,25,2024-05-04,"Diaz, Perez and Strickland"
+C-Arm,Sensor,26,2024-11-24,Nguyen-Ryan
+Patient Monitor,Circuit Board,37,2024-05-22,"Rose, Phillips and Davis"
+Ultrasound Machine,Circuit Board,33,2024-05-30,"Mooney, Callahan and Kim"
+Suction Pump,Sensor,48,2025-02-06,Miller LLC
+Ultrasound Machine,Battery,32,2024-11-19,Long-Kim
+Endoscope,Display Panel,22,2025-03-25,"Brown, Robinson and Parrish"
+ECMO Machine,Battery,12,2024-08-02,Thomas Inc
+PET Scanner,Power Supply,41,2024-09-21,Romero Ltd
+BP Machines,Fan,21,2025-03-06,Black Inc
+Ventilator,Battery,2,2025-04-12,"Nunez, Greene and Jones"
+Patient Monitor,Display Panel,8,2024-08-25,Rogers-Alexander
+MRI Machine,Sensor,37,2024-11-26,Wood Inc
