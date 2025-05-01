@@ -16,6 +16,18 @@ Together, these modules form a powerful assistant that combines the robustness o
 
 ---
 
+### 🎯 Target Audience
+
+This AI-powered Equipment Maintenance Assistant is ideal for:
+
+- 🏥 **Clinical/Biomedical Engineers** – managing hospital assets, preventive maintenance, and compliance.
+- 🏭 **Industrial Maintenance Teams** – diagnosing issues and tracking repair logs across manufacturing plants.
+- 🧠 **AI Developers/Researchers** – exploring agentic workflows (LangGraph), RAG, and Azure-based integration.
+- 🧰 **Facility Managers & CMMS Users** – looking for an intelligent interface over conventional maintenance systems.
+- 🛡️ **Healthcare IT & Compliance Officers** – ensuring traceable, compliant handling of equipment and records.
+
+---
+
 ### 🚨 Problem Statement
 
 - Maintenance staff often struggle to find **step-by-step troubleshooting guides** hidden deep within PDF manuals.
@@ -188,6 +200,20 @@ streamlit run app.py
 - [ ] 📊 Visualize **maintenance & fault trends** over time
 - [ ] ⏰ Trigger **automated alerts/reminders** for due maintenance
 - [ ] 🗂️ Add **version tracking** and metadata diff for manuals
+
+
+### 📌 Conclusion
+
+This project combines the power of LangGraph agents, Retrieval-Augmented Generation (RAG), and Azure services to revolutionize how industrial or clinical maintenance teams interact with equipment data and manuals.
+
+With capabilities like:
+
+- Intelligent agent decision-making
+- Interactive dashboards
+- Image-enhanced troubleshooting
+- Equipment-wise report generation
+
+…this solution not only acts as a **smart CMMS** alternative, but also pushes the boundaries of human-AI collaboration in mission-critical environments.
 
 # 📃 License
 Licensed under the Apache 2.0 License.
