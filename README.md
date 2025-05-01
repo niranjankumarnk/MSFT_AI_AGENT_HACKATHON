@@ -23,8 +23,8 @@ Here’s an example where the assistant responds with both text and visuals from
 
 ![RAG Response](rag_response1.png)
 <p align="center">
-  <img src="rag_response1.png" alt="RAG Output 1" width="45%" />
-  <img src="rag_response2.png" alt="RAG Output 2" width="45%" />
+  <img src="rag_response2.png" alt="RAG Output 1" width="45%" />
+  <img src="rag_response3.png" alt="RAG Output 2" width="45%" />
 </p>
 
 Visuals plays a major role in this Industrial maintenance of the equipment 
