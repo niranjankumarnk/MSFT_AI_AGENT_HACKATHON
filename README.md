@@ -1,13 +1,41 @@
 # 🧠 AI Agents Based Predictive Maintenance – Industry Equipment
 
-This project provides an intelligent, agent-powered platform to manage, monitor, and maintain industrial equipment. Built using **LangGraph**, **Azure**, and **Streamlit**, it features:
-- AI-based troubleshooting from manuals (RAG)
-- Asset management and dashboard analytics
-- CSV uploads to Azure SQL
-- Equipment summary + report generation
-- A generative blog agent for content creation
+### 🔍 Background & Overview
+
+In industrial and healthcare settings, managing a large fleet of equipment—ranging from ventilators to CT scanners—requires precise tracking of maintenance schedules, spare parts, compliance records, and troubleshooting guides. Traditional CMMS (Computerized Maintenance Management Systems) often lack intelligent query support, real-time insights, or multimodal data understanding (e.g., manuals with images).
+
+This project is an AI-powered Asset Management and Troubleshooting Assistant that integrates:
+
+- 📚 **RAG-based multimodal manual understanding**
+- 📊 **Interactive dashboards via Azure SQL**
+- 🔍 **LLM-based routing for query analysis**
+- 🤖 **LangGraph agents for intelligent task flows**
+- ✍️ **Blog generator agent for marketing/report creation**
+
+Together, these modules form a powerful assistant that combines the robustness of asset databases with the flexibility and reasoning power of large language models.
 
 ---
+
+### 🚨 Problem Statement
+
+- Maintenance staff often struggle to find **step-by-step troubleshooting guides** hidden deep within PDF manuals.
+- Teams lack a **centralized intelligent interface** to view asset health, compliance, and service history.
+- Reporting is either manual or siloed across spreadsheets, limiting decision-making speed.
+- Traditional tools do not offer **natural language interaction**, **image retrieval**, or **AI-driven routing** based on user intent.
+
+---
+
+### ✅ Solution
+
+This project solves these issues with an end-to-end AI solution:
+
+- 📄 **Manual Assistant with RAG**: Upload a PDF manual and instantly ask questions. The system retrieves text and related images from the manual to guide troubleshooting.
+- 🛠️ **Azure-based Asset Management**: Store, update, and view equipment status, parts, compliance records—complete with filtering and analytics.
+- 🧠 **LLM Router**: Determines whether to answer from a manual, generate a report, or summarize dashboard data—automatically.
+- 📝 **Report & Blog Generator**: Generate formatted summaries, maintenance reports, or blog content from equipment or user prompts.
+
+This transforms a static, fragmented maintenance ecosystem into an intelligent, visual, and interactive support system.
+
 
 ## 🚀 Features
 
@@ -154,7 +182,6 @@ streamlit run app.py
 - [ ] 🔍 Add **Multi-modal Search** across images and text
 - [ ] 📄 Enable **PDF Export** of equipment reports
 - [ ] 🧠 Fine-tune LLMs for **domain-specific knowledge**
-- [ ] 🔗 Integrate with **external CMMS platforms** (e.g., UpKeep, Fiix)
 - [ ] 📡 Ingest **real-time IoT/sensor data** for predictive maintenance
 - [ ] 📁 Support **bulk/manual uploads** with background processing
 - [ ] 🔐 Add **Role-Based Access Control (RBAC)** for user management
