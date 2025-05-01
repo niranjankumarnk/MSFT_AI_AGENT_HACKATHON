@@ -148,6 +148,20 @@ streamlit run app.py
 
 - 📰 “Write a blog about industrial maintenance in hospitals” → Blog agent!
 
+
+# ✅ Future Work & Enhancements
+
+- [ ] 🔍 Add **Multi-modal Search** across images and text
+- [ ] 📄 Enable **PDF Export** of equipment reports
+- [ ] 🧠 Fine-tune LLMs for **domain-specific knowledge**
+- [ ] 🔗 Integrate with **external CMMS platforms** (e.g., UpKeep, Fiix)
+- [ ] 📡 Ingest **real-time IoT/sensor data** for predictive maintenance
+- [ ] 📁 Support **bulk/manual uploads** with background processing
+- [ ] 🔐 Add **Role-Based Access Control (RBAC)** for user management
+- [ ] 📊 Visualize **maintenance & fault trends** over time
+- [ ] ⏰ Trigger **automated alerts/reminders** for due maintenance
+- [ ] 🗂️ Add **version tracking** and metadata diff for manuals
+
 # 📃 License
 Licensed under the Apache 2.0 License.
 
