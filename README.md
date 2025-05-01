@@ -104,6 +104,8 @@ Leverage the power of **LangGraph + GPT-4o** to generate high-quality blog conte
 
 - ⚙️ Seamlessly plug into your internal CMS or documentation pipelines
 
+![Blog Backened working process](Images/backened_agentic.png)
+
 ![](Images/blog1.png)
 ![](Images/blog2.png)
 
