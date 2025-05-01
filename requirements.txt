@@ -34,3 +34,5 @@ uvicorn[standard]
 pydantic
 plotly
 langchain_openai
+langgraph-cli[inmem]
+langgraph

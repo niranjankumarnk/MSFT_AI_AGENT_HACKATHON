@@ -61,6 +61,8 @@ This transforms a static, fragmented maintenance ecosystem into an intelligent, 
 
 Here’s an example where the assistant responds with both text and visuals from the manual:
 
+![Agentic RAG](Images/rag_agent.png)
+
 ![RAG Response](Images/rag_response1.png)
 <p align="center">
   <img src="Images/rag_response2.png" alt="RAG Output 1" width="45%" />
