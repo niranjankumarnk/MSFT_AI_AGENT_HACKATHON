@@ -138,27 +138,20 @@ DRIVER={ODBC Driver 18 for SQL Server}
 streamlit run app.py
 ```
 
-📝 Example Use Cases
-🔧 “How do I reset the GE Dash 5000?” → Uses RAG with visuals.
+# 📝 Example Use Cases
 
-📈 “Summarize all compliance records” → Uses dashboard summary.
+- 🔧 “How do I reset the GE Dash 5000?” → Uses RAG with visuals.
 
-📑 “Generate report for Dialysis Machine” → Uses SQL report tool.
+- 📈 “Summarize all compliance records” → Uses dashboard summary.
 
-📰 “Write a blog about industrial maintenance in hospitals” → Blog agent!
+- 📑 “Generate report for Dialysis Machine” → Uses SQL report tool.
 
-📃 License
+- 📰 “Write a blog about industrial maintenance in hospitals” → Blog agent!
+
+# 📃 License
 Licensed under the Apache 2.0 License.
 
-✨ Authors
+# ✨ Authors
 Niranjan Kumar Kishore Kumar – AI + Healthcare Enthusiast
 
-🙌 Acknowledgements
-LangGraph
-
-Azure SQL + Blob
-
-Streamlit
-
-OpenAI GPT-4o
 
