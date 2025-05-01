@@ -61,10 +61,10 @@ This transforms a static, fragmented maintenance ecosystem into an intelligent, 
 
 Here’s an example where the assistant responds with both text and visuals from the manual:
 
-![RAG Response](rag_response1.png)
+![RAG Response](Images/rag_response1.png)
 <p align="center">
-  <img src="rag_response2.png" alt="RAG Output 1" width="45%" />
-  <img src="rag_response3.png" alt="RAG Output 2" width="45%" />
+  <img src="Images/rag_response2.png" alt="RAG Output 1" width="45%" />
+  <img src="Images/rag_response3.png" alt="RAG Output 2" width="45%" />
 </p>
 
 Visuals plays a major role in this Industrial maintenance of the equipment by simplifying complex procedures, improving accuracy, and reducing downtime. Annotated diagrams, step-by-step visuals, and layout schematics help technicians:
@@ -81,9 +81,9 @@ These visual aids not only improve operational efficiency but also support regul
   - Compliance Summary
   - Spare Part Availability
 
-![](asset1.png)
-![](asset2.png)
-![](asset3.png)
+![](Images/asset1.png)
+![](Images/asset2.png)
+![](Images/asset3.png)
 
 With seamless integration into the AI agent workflow, it empowers predictive insights and proactive maintenance planning based on real-time asset data.
 
@@ -104,8 +104,8 @@ Leverage the power of **LangGraph + GPT-4o** to generate high-quality blog conte
 
 - ⚙️ Seamlessly plug into your internal CMS or documentation pipelines
 
-![](blog1.png)
-![](blog2.png)
+![](Images/blog1.png)
+![](Images/blog2.png)
 
 This feature turns your AI assistant into a creative content generator — automating writing for product updates, equipment overviews, or technical guides.
 
