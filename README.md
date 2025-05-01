@@ -90,28 +90,27 @@ This feature turns your AI assistant into a creative content generator — autom
 ├── DataBase/                    # Azure SQL schema logic
 ├── Equipment_data/              # Data files (CSV)
 ├── RAG_modules/                 # PDF parsing and vector storage
-├── manuals/                     # Processed manual storage
+├── manuals/                     # equipment manual storage
 ├── app.py                       # Streamlit main app
 ├── blog_generation.py           # LangGraph blog agent
 ├── asset_generation.py          # Asset SQL logic
 ├── csv_upload.py                # CSV uploader logic
 ├── manuals.py                   # Manual assistant logic
 ├── README.md
-
+```
 
 # 🧪 Running the Project
 ## 1. Clone the repo
 
-```
-git clone https://github.com/yourusername/predictive-maintenance-agent.git
-cd predictive-maintenance-agent
-
+```bash
+git clone https://github.com/niranjankumarnk/MSFT_AI_AGENT_HACKATHON.git
+cd MSFT_AI_AGENT_HACKATHON
 ```
 
 ## 2. Setup Environment
 
-```
-conda create -n msfthackvenv python=3.10
+```bash
+conda create -n msfthackvenv python=3.12 -y
 conda activate msfthackvenv
 pip install -r requirements.txt
 
@@ -121,19 +120,23 @@ pip install -r requirements.txt
 
 Create a .env file and configure:
 
-
-```OPENAI_API_KEY=...
+```bash
+OPENAI_API_KEY=...
+DEEPSEEK_API_KEY=...
 MONGODB_URI=...
 AZURE_STORAGE_CONNECTION_STRING=...
 SQL_SERVER=...
 SQL_DATABASE=...
 SQL_USERNAME=...
 PASSWORD=...
-DRIVER={ODBC Driver 18 for SQL Server}```
+DRIVER={ODBC Driver 18 for SQL Server}
+```
 
 ## 4. Run the app
 
-```streamlit run app.py```
+```bash
+streamlit run app.py
+```
 
 📝 Example Use Cases
 🔧 “How do I reset the GE Dash 5000?” → Uses RAG with visuals.
