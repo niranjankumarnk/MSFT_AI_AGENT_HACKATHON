@@ -5,7 +5,7 @@ import os
 from rag_agent import create_agentic_rag_graph
 from rag_tools import manual_exists
 from utility import NamedFile
-from RAG_modules.Azure_CosmoDB import list_manual_collections, delete_manual_data
+from RAG_modules.azure_cosmoDB import list_manual_collections, delete_manual_data
 # from S3_store import delete_manual_images_from_s3
 from RAG_modules.azure_store import delete_manual_images_from_azure
 from RAG_modules.manual_search import download_manual_from_archive

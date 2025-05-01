@@ -3,12 +3,12 @@
 from RAG_modules.extract_pdf_content import extract_pdf_content
 from RAG_modules.create_chunks import create_chunks_with_references
 from RAG_modules.embed_chunks import embed_chunks
-from RAG_modules.Azure_CosmoDB import store_manual_data, retrieve_manual_chunks
+from RAG_modules.azure_cosmoDB import store_manual_data, retrieve_manual_chunks
 # from S3_store import upload_image_to_s3
 from RAG_modules.azure_store import upload_image_to_azure
 from RAG_modules.llm_response import generate_llm_response
 from RAG_modules.query_engine import retrieve_relevant_chunks
-from RAG_modules.Azure_CosmoDB import retrieve_manual_chunks
+from RAG_modules.azure_cosmoDB import retrieve_manual_chunks
 from botocore.exceptions import ClientError
 from bson import ObjectId
 import tempfile
